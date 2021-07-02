@@ -1,0 +1,1781 @@
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0662-back.jpg 488,500,768,544,0 209,158,891,590,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0097-back.jpg 830,650,1348,734,0 316,29,1531,802,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0235-back.jpg 338,779,678,844,0 4,348,812,928,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0721-front.jpg 142,416,243,463,1 234,686,587,739,2 29,359,664,773,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0861-back.jpg 571,600,922,646,0 224,155,1085,694,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0699-front.jpg 493,156,673,236,1 668,689,1359,783,2 197,31,1488,860,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0774-back.jpg 485,630,864,683,0 106,169,1035,754,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0206-back.jpg 262,355,438,388,0 30,69,601,419,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0332-front.jpg 203,428,282,464,1 295,687,625,724,2 71,371,683,762,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0217-front.jpg 126,47,220,89,1 224,336,579,379,2 1,1,639,414,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0238-front.jpg 127,49,219,88,1 222,331,573,371,2 2,4,637,402,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0676-front.jpg 214,977,393,1056,1 398,1461,1026,1540,2 10,880,1152,1635,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0449-back.jpg 265,345,537,380,0 2,7,655,424,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0001-back.jpg 362,880,689,930,0 47,522,828,987,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0505-back.jpg 301,324,515,360,0 74,61,611,402,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0436-back.jpg 541,629,771,677,0 227,209,984,717,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0122-front.jpg 115,169,211,211,1 208,461,581,510,2 1,123,661,555,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0337-front.jpg 232,150,366,203,1 365,556,858,612,2 52,82,967,674,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0790-front.jpg 127,262,196,294,1 210,526,540,557,2 1,205,623,595,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0135-back.jpg 263,332,532,369,0 5,4,638,403,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0384-back.jpg 197,453,378,480,0 30,232,457,503,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0173-front.jpg 107,52,191,86,1 195,297,507,332,2 4,5,575,369,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0355-back.jpg 487,1077,677,1104,0 399,284,471,316,1 497,490,743,519,2 309,253,748,553,3 307,832,748,1129,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0801-back.jpg 301,800,612,850,0 7,421,740,914,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0220-back.jpg 255,378,484,409,0 47,89,596,439,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0013-front.jpg 158,342,227,370,1 226,555,497,589,2 51,301,554,624,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0715-front.jpg 224,211,340,256,1 349,531,769,593,2 70,135,862,651,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0539-front.jpg 57,241,108,264,1 102,374,269,399,2 1,218,295,423,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0771-back.jpg 191,362,374,391,0 6,142,457,425,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0083-back.jpg 264,368,522,406,0 7,60,634,450,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0775-front.jpg 175,85,366,169,1 387,674,1115,750,2 1,1,1152,836,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0147-front.jpg 131,53,218,95,1 239,358,623,396,2 5,3,695,441,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0731-back.jpg 424,579,788,634,0 78,127,942,689,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0195-back.jpg 292,314,489,346,0 94,69,562,376,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0661-front.jpg 81,41,145,66,1 153,229,389,252,2 2,1,439,276,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0908-front.jpg 300,266,447,301,1 489,587,1098,648,2 1,190,1243,739,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0064-front.jpg 108,202,167,225,1 167,381,384,407,2 20,163,438,434,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0704-back.jpg 297,711,587,756,0 11,344,715,794,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0161-front.jpg 158,371,271,420,1 274,702,687,744,2 17,313,776,807,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0141-back.jpg 373,990,747,1055,0 7,541,887,1117,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0874-back.jpg 299,401,499,429,0 76,139,599,459,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0119-back.jpg 100,144,209,160,0 1,1,256,178,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0557-front.jpg 294,168,425,220,1 424,521,862,573,2 130,107,943,633,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0825-back.jpg 256,530,511,569,0 26,218,614,600,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0396-back.jpg 282,567,567,617,0 16,218,681,633,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0266-back.jpg 560,800,1057,866,0 126,200,1261,929,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0843-back.jpg 302,723,518,762,0 80,442,617,786,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0188-back.jpg 869,678,1358,754,0 396,95,1527,807,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0657-back.jpg 294,565,601,618,0 4,219,723,664,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0833-back.jpg 625,898,1383,1010,0 2,7,1688,1080,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0439-front.jpg 84,271,144,298,1 133,442,361,480,2 1,240,409,503,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0736-back.jpg 431,589,849,646,0 1,64,1008,725,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0281-front.jpg 120,67,199,104,1 218,341,564,377,2 5,10,638,411,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0052-back.jpg 220,280,440,311,0 8,3,538,340,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0322-front.jpg 115,40,218,82,1 223,329,579,369,2 1,2,640,411,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0864-front.jpg 100,132,235,173,1 209,455,623,502,2 1,81,640,564,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0699-back.jpg 675,752,1074,827,0 106,34,1461,897,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0620-front.jpg 104,289,177,316,1 171,484,418,516,2 17,245,477,551,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0294-front.jpg 162,95,235,128,1 239,353,582,396,2 35,50,637,430,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0236-back.jpg 275,353,516,390,0 41,66,604,428,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0527-front.jpg 186,68,248,101,1 254,289,557,333,2 77,17,625,360,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0924-front.jpg 237,151,374,199,1 445,540,969,614,2 24,70,1001,698,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0327-front.jpg 146,303,198,325,1 182,455,372,494,2 67,267,426,516,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0296-back.jpg 190,572,386,601,0 1,319,465,631,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0807-back.jpg 232,723,500,763,0 5,412,616,820,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0411-front.jpg 188,82,235,104,1 229,223,409,245,2 113,61,443,268,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0778-front.jpg 142,559,239,605,1 268,857,674,922,2 5,477,775,985,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0352-back.jpg 265,634,516,674,0 17,330,625,713,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0623-front.jpg 123,77,216,120,1 218,340,532,374,2
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0626-back.jpg 452,1038,875,1106,0 44,502,1057,1172,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0777-back.jpg 228,279,411,305,0 54,56,497,337,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0571-front.jpg 261,338,365,388,1 356,631,724,678,2 133,283,809,722,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0798-back.jpg 383,592,768,650,0 12,108,933,701,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0304-back.jpg 292,275,479,297,0 96,30,553,324,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0613-front.jpg 25,274,115,316,1 109,544,445,583,2 2,219,480,600,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0877-back.jpg 439,691,905,755,0 1,91,1122,826,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0244-back.jpg 252,271,472,307,0 37,17,567,343,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0058-back.jpg 192,414,389,446,0 3,160,477,474,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0902-front.jpg 243,144,366,198,1 392,533,865,583,2 72,70,976,654,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0899-front.jpg 584,154,774,225,1 773,697,1476,791,2 292,33,1622,890,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0502-front.jpg 263,337,527,372,0 2,1,640,414,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0487-back.jpg 339,530,668,582,0 32,110,827,614,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0026-front.jpg 101,228,155,253,1 164,419,412,449,2 16,196,465,483,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0800-back.jpg 253,603,504,642,0 5,271,619,678,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0896-front.jpg 793,170,1002,261,1 984,787,1800,881,2 466,51,1977,992,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0612-back.jpg 687,637,1151,708,0 234,62,1334,777,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0871-back.jpg 272,344,523,380,0 35,38,639,416,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0882-back.jpg 232,539,574,589,0 1,87,639,634,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0013-back.jpg 289,700,512,732,0 49,412,607,779,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0165-back.jpg 228,302,438,337,0 19,38,532,355,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0084-back.jpg 267,356,527,391,0 7,27,638,422,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0208-front.jpg 126,45,225,84,1 225,317,579,356,2 1,1,639,385,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0441-front.jpg 105,215,168,238,1 172,385,392,409,2 25,173,437,437,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0040-front.jpg 190,86,300,134,1 390,480,889,541,2 1,6,894,578,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0191-front.jpg 140,53,263,99,1 266,404,718,457,2 2,1,819,517,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0442-back.jpg 254,248,378,271,0 92,42,489,294,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0300-back.jpg 277,334,533,371,0 17,18,626,404,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0512-back.jpg 261,370,497,406,0 37,74,596,438,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0628-front.jpg 146,127,230,159,1 227,363,532,398,2 24,80,593,441,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0669-back.jpg 309,574,636,626,0 1,174,756,668,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0389-back.jpg 293,297,469,330,0 67,5,634,362,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0603-front.jpg 149,426,242,469,1 250,717,641,768,2 7,376,717,834,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0567-back.jpg 703,908,1261,993,0 114,167,1514,1077,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0690-front.jpg 520,272,693,358,1 714,843,1444,925,2 239,169,1590,1028,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0030-back.jpg 181,427,357,456,0 13,217,430,481,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0709-front.jpg 156,432,258,476,1 267,767,701,821,2 15,362,756,874,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0447-back.jpg 287,276,481,304,0 100,33,569,330,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0093-back.jpg 373,727,636,770,0 95,390,726,825,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0079-back.jpg 259,396,517,434,0 15,82,620,471,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0437-back.jpg 290,224,443,248,0 154,50,507,272,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0183-front.jpg 123,75,216,112,1 221,363,589,402,2 4,15,640,442,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0311-back.jpg 818,732,1401,825,0 214,15,1623,907,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0303-back.jpg 271,360,534,395,0 27,48,622,426,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0498-back.jpg 709,790,1310,888,0 137,46,1580,982,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0644-front.jpg 197,114,327,171,1 345,533,879,593,2 18,43,992,674,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0387-front.jpg 182,702,326,764,1 278,1049,788,1134,2 15,637,887,1173,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0332-back.jpg 288,755,572,795,0 1,390,694,835,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0519-back.jpg 431,542,815,596,0 73,88,963,639,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0435-back.jpg 241,388,545,432,0 1,7,637,469,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0711-back.jpg 446,932,856,987,0 20,407,1028,1056,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0134-front.jpg 217,85,363,143,1 376,528,929,584,2 8,9,1027,648,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0256-back.jpg 265,298,489,332,0 38,18,574,359,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0298-front.jpg 206,610,307,652,1 326,902,722,946,2 73,519,802,986,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0252-front.jpg 86,54,134,74,1 132,195,309,216,2 19,33,343,239,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0606-back.jpg 452,575,764,637,0 40,29,1061,693,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0138-back.jpg 274,312,512,346,0 37,26,590,382,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0438-back.jpg 462,564,800,615,0 108,133,944,667,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0651-back.jpg 270,368,526,402,0 5,40,633,444,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0524-front.jpg 164,345,247,378,1 240,583,561,628,2 51,295,625,665,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0403-back.jpg 316,315,442,335,0 178,147,495,356,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0075-front.jpg 240,167,300,190,1 295,348,527,375,2 144,133,574,411,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0391-back.jpg 850,769,1278,830,0 420,234,1458,897,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0253-back.jpg 331,402,623,448,0 49,42,747,501,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0693-back.jpg 480,901,818,954,0 161,505,967,1015,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0388-front.jpg 355,269,551,352,1 528,768,1203,860,2 126,185,1321,930,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0515-back.jpg 181,264,322,285,0 163,342,217,363,1 208,495,404,523,2 42,98,377,302,4 84,313,445,550,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0783-front.jpg 80,292,135,315,1 129,426,305,446,2 17,265,343,469,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0371-front.jpg 196,601,336,664,1 348,1027,878,1085,2 21,535,990,1152,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0157-back.jpg 262,355,519,396,0 20,49,614,428,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0681-front.jpg 168,326,285,384,1 275,648,694,706,2 16,265,776,761,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0789-front.jpg 204,168,353,235,1 355,604,905,663,2 5,68,1008,738,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0201-front.jpg 550,1061,698,1123,1 690,1501,1244,1583,2 1904,1572,2332,1643,0 338,960,1375,1639,3 1475,1036,2525,1676,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0269-back.jpg 309,703,621,760,0 21,337,743,799,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0676-back.jpg 461,696,901,761,0 21,153,1096,832,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0768-front.jpg 58,179,119,208,1 122,344,323,364,2 1,142,360,397,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0096-back.jpg 328,1071,602,1131,0 1,646,842,1187,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0583-front.jpg 489,278,725,371,1 713,881,1512,971,2 172,125,1661,1048,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0234-back.jpg 379,865,719,924,0 67,468,854,978,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0893-back.jpg 936,851,1520,942,0 410,145,1794,1016,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0153-front.jpg 210,747,288,778,1 276,949,537,978,2 121,712,586,1017,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0809-front.jpg 156,381,251,420,1 250,669,637,714,2 18,327,725,773,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0149-front.jpg 103,248,168,274,1 169,436,408,460,2 18,213,451,486,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0216-back.jpg 870,874,1488,964,0 263,125,1734,1043,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0106-front.jpg 143,100,220,137,1 237,365,564,398,2 14,54,618,441,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0623-back.jpg 238,362,524,402,0
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0701-back.jpg 878,632,1348,703,0 403,69,1557,799,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0804-back.jpg 500,655,960,718,0 48,74,1150,791,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0127-back.jpg 391,579,600,616,0 190,327,683,653,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0631-back.jpg 913,698,1227,747,0 607,299,1357,788,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0250-front.jpg 316,165,480,230,1 458,706,1171,805,2 25,76,1278,892,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0331-front.jpg 346,218,437,262,1 452,542,855,585,2 191,172,934,638,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0552-front.jpg 169,658,300,730,1 320,1076,855,1146,2 2,567,950,1201,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0675-front.jpg 246,153,373,206,1 390,551,898,608,2 67,68,1003,682,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0916-front.jpg 178,516,251,550,1 259,753,563,792,2 68,462,643,832,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0839-back.jpg 442,560,839,611,0 59,60,1001,662,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0638-back.jpg 351,1113,707,1169,0 1,661,859,1220,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0050-back.jpg 254,344,473,378,0 47,80,561,411,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0655-front.jpg 261,180,372,241,1 392,533,834,582,2 100,117,922,646,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0560-back.jpg 250,345,526,383,0 1,1,640,415,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0487-front.jpg 338,156,453,209,1 461,513,909,570,2 177,89,1004,613,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0427-back.jpg 408,624,814,677,0 4,108,982,734,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0736-front.jpg 266,147,399,210,1 400,587,941,647,2 14,69,1008,721,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0460-back.jpg 439,608,865,666,0 28,91,1007,733,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0861-front.jpg 699,212,901,292,1 901,791,1658,875,2 425,67,1834,987,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0591-front.jpg 298,174,461,243,1 449,637,1031,708,2 68,85,1152,805,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0621-back.jpg 233,288,471,322,0 3,2,581,358,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0689-back.jpg 368,541,699,592,0 28,106,851,633,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0271-front.jpg 163,73,221,98,1 221,242,434,267,2 88,43,482,289,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0924-back.jpg 440,552,831,608,0 54,73,987,670,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0746-front.jpg 161,89,240,126,1 241,317,529,349,2 57,47,588,386,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0124-back.jpg 701,729,1102,797,0 312,290,1273,852,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0414-front.jpg 242,991,389,1062,1 361,1372,863,1451,2 69,925,939,1495,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0342-front.jpg 218,100,325,141,1 316,405,701,446,2 66,42,769,490,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0511-front.jpg 427,233,489,261,1 494,416,730,446,2 340,196,775,487,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0251-front.jpg 104,51,177,82,1 179,275,455,308,2 7,9,518,335,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0856-front.jpg 246,197,408,256,1 405,674,999,737,2 33,110,1121,823,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0537-back.jpg 266,277,480,307,0 49,39,567,341,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0149-back.jpg 189,468,388,497,0 2,228,466,516,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0320-back.jpg 190,389,327,414,0 13,163,452,440,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0202-front.jpg 269,411,371,452,1 385,698,774,756,2 135,353,842,818,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0805-back.jpg 333,451,613,489,0 43,92,730,534,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0079-front.jpg 162,127,235,159,1 245,383,571,419,2 43,87,628,461,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0535-front.jpg 104,321,165,349,1 161,494,388,525,2 23,291,436,553,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0653-back.jpg 295,361,500,396,0 2,2,699,439,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0814-front.jpg 340,89,616,195,1 594,867,1543,978,2 1,3,1702,1075,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0032-back.jpg 1150,1452,2273,1601,0 24,32,2722,1763,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0482-back.jpg 269,357,507,389,0 23,51,612,423,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0193-front.jpg 167,340,256,383,1 276,639,653,683,2 31,291,729,733,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0765-front.jpg 126,60,223,103,1 228,340,581,378,2 1,1,638,413,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0649-back.jpg 415,527,725,570,0 111,137,865,617,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0742-front.jpg 291,556,408,606,1 423,889,860,949,2 132,476,961,1002,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0075-back.jpg 341,366,507,395,0 167,157,574,430,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0068-front.jpg 225,127,339,173,1 346,502,804,549,2 43,60,906,611,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0237-back.jpg 414,919,798,982,0 66,475,961,1028,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0023-front.jpg 281,100,460,165,1 460,652,1223,735,2 13,3,1355,806,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0784-front.jpg 364,219,515,270,1 508,632,1039,691,2 177,116,1156,747,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0618-back.jpg 338,354,502,388,0 163,141,581,423,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0318-back.jpg 265,295,483,325,0 64,27,579,353,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0276-back.jpg 550,743,996,815,0 102,212,1164,887,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0563-front.jpg 147,29,303,88,1 288,453,812,513,2 1,1,880,560,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0700-front.jpg 270,741,376,794,1 370,1068,807,1137,2 104,673,904,1202,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0358-front.jpg 68,243,119,266,1 119,395,322,418,2 2,209,360,444,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0369-back.jpg 162,457,316,487,0 27,269,381,505,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0656-front.jpg 173,113,286,155,1 355,447,762,490,2 1,35,800,542,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0702-back.jpg 608,853,1069,915,0 115,198,1344,996,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0091-back.jpg 280,322,502,357,0 69,62,596,395,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0877-front.jpg 240,157,405,221,1 405,646,1030,715,2 1,69,1152,809,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0243-back.jpg 441,636,717,682,0 171,312,828,730,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0356-front.jpg 268,96,311,115,1 309,210,451,228,2 213,76,484,248,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0499-back.jpg 819,765,1343,853,0 337,126,1553,915,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0504-front.jpg 183,55,280,96,1 267,292,547,324,2 72,9,619,366,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0035-back.jpg 717,729,1247,807,0 230,106,1486,895,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0291-front.jpg 112,252,165,272,1 162,401,358,424,2 45,224,394,449,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0692-front.jpg 208,472,324,536,1 331,805,751,869,2 60,406,858,910,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0680-back.jpg 626,720,1078,784,0 185,148,1271,845,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0417-front.jpg 198,418,399,456,1 323,730,730,795,2 107,376,799,809,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0845-front.jpg 225,188,282,211,1 281,361,515,389,2 139,146,567,422,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0225-back.jpg 186,450,389,478,0 4,217,471,504,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0296-front.jpg 72,323,151,355,1 148,556,440,588,2 1,280,477,620,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0862-front.jpg 73,124,191,173,1 191,481,628,525,2 1,63,640,593,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0504-back.jpg 311,283,490,309,0 118,48,568,348,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0707-back.jpg 473,968,909,1027,0 94,415,1077,1086,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0685-back.jpg 372,453,646,496,0 113,106,780,534,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0450-front.jpg 146,69,242,105,1 243,335,581,369,2 35,19,639,407,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0260-front.jpg 457,100,704,207,1 715,842,1601,936,2 77,1,1773,1037,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0753-back.jpg 350,448,646,496,0 42,72,769,548,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0231-back.jpg 328,462,646,505,0 23,80,773,547,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0588-back.jpg 800,719,1147,776,0 466,302,1293,831,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0168-back.jpg 282,351,502,387,0 68,76,593,407,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0650-back.jpg 272,360,497,392,0 53,72,594,426,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0838-back.jpg 283,376,463,414,0 2,31,631,465,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0675-back.jpg 460,519,830,585,0 83,67,976,648,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0556-front.jpg 217,520,376,594,1 363,924,885,991,2 40,432,991,1042,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0274-back.jpg 275,678,576,733,0 19,328,701,769,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0387-back.jpg 362,1021,728,1067,0 1,577,893,1134,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0201-back.jpg 1897,1573,2335,1638,0 547,1055,695,1123,1 684,1501,1267,1589,2 328,971,1375,1650,3 1478,1026,2525,1684,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0233-front.jpg 155,64,276,119,1 283,425,733,476,2 6,11,832,528,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0119-front.jpg 58,30,95,44,1 94,138,232,153,2 7,10,262,170,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0313-front.jpg 242,143,376,197,1 368,540,879,591,2 59,73,990,662,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0537-front.jpg 157,80,237,105,1 238,281,521,311,2 42,43,574,351,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0787-back.jpg 237,232,389,253,0 86,33,456,276,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0069-front.jpg 95,204,134,223,1 141,340,314,363,2 31,177,353,382,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0866-front.jpg 159,138,227,171,1 238,363,514,392,2 52,100,573,435,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0874-front.jpg 146,167,228,201,1 226,396,510,430,2 34,114,581,465,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0481-front.jpg 495,259,650,337,1 632,688,1178,761,2 297,187,1286,811,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0219-back.jpg 284,361,516,395,0 69,90,612,429,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0087-front.jpg 209,150,334,194,1 354,495,814,558,2 33,73,888,630,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0470-front.jpg 229,99,302,131,1 323,296,566,328,2 121,65,576,351,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0401-front.jpg 146,143,185,162,1 188,263,347,283,2 199,445,323,464,0 81,120,375,299,3 80,297,375,483,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0209-front.jpg 474,221,611,287,1 630,676,1208,740,2 272,139,1324,813,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0455-front.jpg 126,253,180,275,1 182,413,393,436,2 50,223,433,467,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0659-back.jpg 285,720,582,768,0 7,347,709,805,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0289-front.jpg 93,298,155,322,1 152,477,386,504,2 14,261,427,530,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0714-back.jpg 255,343,516,379,0 1,1,639,404,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0560-front.jpg 130,54,218,89,1 219,338,576,373,2 1,1,640,416,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0055-back.jpg 379,578,788,653,0 7,89,973,712,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0328-back.jpg 331,497,645,552,0 1,88,770,596,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0625-back.jpg 114,385,233,402,0 1,236,282,419,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0081-back.jpg 541,440,821,483,0 258,115,936,531,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0098-front.jpg 148,99,228,132,1 231,349,543,384,2 26,51,617,425,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0269-front.jpg 167,401,258,437,1 262,687,642,732,2 41,332,725,779,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0379-back.jpg 452,581,831,636,0 102,134,973,682,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0300-front.jpg 142,69,231,104,1 229,318,554,354,2 28,27,620,394,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0671-back.jpg 139,399,296,422,0 1,196,359,445,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0128-back.jpg 192,417,334,443,0 46,241,392,463,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0275-front.jpg 191,119,337,177,1 343,550,894,616,2 6,47,998,686,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0037-back.jpg 274,287,494,319,0 53,13,589,354,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0510-front.jpg 128,78,213,114,1 229,331,580,377,2
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0421-front.jpg 123,53,221,87,1 227,344,588,377,2 1,1,638,406,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0776-front.jpg 146,103,211,131,1 211,312,489,347,2 40,58,542,380,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0711-front.jpg 243,510,387,566,1 385,927,911,989,2 48,432,1017,1056,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0787-front.jpg 139,83,192,106,1 188,238,395,267,2 56,47,434,291,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0425-back.jpg 301,559,547,594,0 76,260,647,632,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0469-back.jpg 200,235,394,261,0 11,1,467,284,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0629-front.jpg 323,630,432,678,1 415,934,798,999,2 177,573,891,1039,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0105-back.jpg 333,316,517,344,0 157,92,576,351,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0795-front.jpg 522,288,691,354,1 699,829,1378,906,2 246,173,1528,984,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0879-front.jpg 281,208,439,267,1 439,683,1038,755,2 44,103,1151,832,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0404-front.jpg 214,120,362,177,1 359,557,901,608,2 4,48,1008,683,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0900-front.jpg 558,199,738,274,1 774,822,1568,907,2 286,59,1765,1010,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0586-back.jpg 708,695,1233,771,0 185,22,1460,837,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0395-front.jpg 72,266,142,295,1 151,476,418,513,2 1,220,479,534,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0905-front.jpg 167,478,274,524,1 278,777,652,829,2 16,421,740,887,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0745-back.jpg 290,358,451,386,0 65,80,599,409,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0226-front.jpg 139,293,187,314,1 195,459,411,485,2 66,261,451,506,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0844-front.jpg 116,44,171,69,1 186,227,422,255,2 16,1,477,293,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0381-back.jpg 247,335,521,372,0 1,1,639,396,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0876-back.jpg 161,347,289,373,0 1,129,414,402,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0657-front.jpg 166,223,280,267,1 285,536,697,589,2 13,163,744,646,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0077-front.jpg 268,101,469,175,1 473,736,1278,824,2 2,1,1446,905,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0092-back.jpg 287,340,525,372,0 53,56,619,409,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0594-back.jpg 435,496,700,537,0
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0667-front.jpg 297,129,553,224,1 564,846,1482,940,2 1,2,1686,1021,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0117-back.jpg 195,421,394,451,0 19,190,473,480,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0034-front.jpg 92,263,132,280,1 143,385,306,413,2 25,231,344,438,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0748-back.jpg 321,717,608,764,0 51,360,730,799,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0433-front.jpg 221,123,282,153,1 289,328,563,358,2 124,88,609,390,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0061-back.jpg 280,216,380,233,0 184,94,422,252,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0598-back.jpg 793,702,1304,772,0 310,50,1543,826,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0261-front.jpg 275,245,401,295,1 403,604,849,649,2 124,178,948,694,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0180-front.jpg 228,111,286,135,1 288,285,507,309,2 143,81,550,338,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0373-back.jpg 915,871,1369,966,0 491,258,1647,1053,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0188-front.jpg 582,169,747,239,1 764,645,1388,727,2 371,78,1521,818,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0278-back.jpg 203,460,325,492,0 87,296,397,516,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0068-back.jpg 433,514,799,563,0 75,50,953,618,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0509-front.jpg 178,173,266,212,1 259,422,552,456,2 47,104,628,480,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0614-back.jpg 389,547,708,591,0 96,138,859,633,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0865-back.jpg 589,841,995,909,0 49,152,1348,981,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0752-back.jpg 428,598,850,656,0 13,70,1014,723,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0580-front.jpg 165,107,248,145,1 239,327,512,361,2 62,65,567,394,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0303-front.jpg 132,98,212,133,1 220,359,574,398,2 10,42,640,444,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0512-front.jpg 182,150,262,185,1 262,364,520,394,2 82,103,588,426,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0284-back.jpg 123,164,250,183,0 3,3,300,196,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0423-front.jpg 261,154,322,177,1 342,326,557,351,2 163,119,566,373,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0600-back.jpg 247,331,507,367,0 4,2,628,405,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0066-front.jpg 174,139,242,165,1 246,347,507,377,2 78,99,566,413,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0283-front.jpg 125,60,205,97,1 212,342,569,385,2 2,10,636,411,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0122-back.jpg 274,448,573,497,0 11,98,683,538,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0118-back.jpg 269,265,438,293,0 101,56,509,314,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0444-back.jpg 136,306,277,326,0 3,142,334,346,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0110-back.jpg 193,462,387,493,0
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0080-back.jpg 171,198,351,224,0 1,1,407,247,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0018-back.jpg 289,881,606,931,0 1,490,738,976,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0052-front.jpg 109,61,181,88,1 178,287,464,321,2 11,11,541,348,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0186-front.jpg 152,84,204,110,1 213,261,436,286,2 75,52,487,312,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0577-back.jpg 253,293,468,325,0 11,17,561,360,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0466-front.jpg 225,204,414,285,1 413,694,1020,766,2 24,110,1141,819,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0475-back.jpg 401,1317,802,1386,0 37,841,977,1437,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0039-front.jpg 330,293,413,328,1 415,554,757,596,2 201,242,826,635,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0189-front.jpg 115,256,178,282,1 175,442,425,470,2 26,219,473,500,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0477-front.jpg 103,234,158,264,1 162,400,377,428,2 35,201,423,445,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0477-back.jpg 190,410,358,438,0 21,201,423,455,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0881-front.jpg 223,204,379,262,1 399,691,1013,755,2 1,95,1133,864,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0696-front.jpg 375,245,597,319,1 570,841,1336,921,2 81,124,1440,1016,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0127-front.jpg 259,358,339,393,1 348,592,643,624,2 161,308,711,663,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0230-front.jpg 163,60,239,91,1 242,284,517,313,2 67,21,580,345,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0394-back.jpg 569,727,1144,810,0 1,5,1383,875,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0211-front.jpg 65,183,120,208,1 120,334,311,356,2 1,154,352,376,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0565-front.jpg 92,198,153,222,1 150,342,339,367,2 28,163,372,384,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0033-back.jpg 250,357,516,395,0 6,33,626,442,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0820-back.jpg 550,706,1109,782,0 1,5,1337,867,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0200-back.jpg 295,276,478,304,0 111,35,559,327,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0900-back.jpg 869,800,1421,875,0 328,102,1658,950,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0416-back.jpg 364,493,704,539,0 23,48,868,582,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0167-back.jpg 595,749,1057,820,0 165,171,1262,871,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0710-back.jpg 423,596,812,650,0 24,92,979,700,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0335-front.jpg 112,264,171,286,1 170,429,380,455,2 37,230,426,478,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0595-front.jpg 142,437,248,480,1 245,721,610,769,2 12,382,684,809,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0445-front.jpg 131,102,220,133,1 223,362,555,398,2 11,50,618,440,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0800-front.jpg 153,415,244,456,1 247,661,553,697,2 42,367,626,744,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0142-back.jpg 486,441,673,472,0 314,225,733,494,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0072-back.jpg 294,332,522,367,0 52,42,622,403,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0619-back.jpg 272,373,456,412,0 15,52,622,453,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0836-front.jpg 582,409,724,460,1 698,789,1214,856,2 368,338,1333,895,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0096-front.jpg 194,794,311,850,1 311,1157,746,1211,2 34,731,858,1263,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0226-back.jpg 192,450,374,480,0 37,241,454,503,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0729-back.jpg 347,704,657,754,0 55,314,796,790,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0432-front.jpg 85,304,156,335,1 166,516,452,547,2 1,262,480,574,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0616-back.jpg 207,457,392,491,0 8,222,467,527,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0872-front.jpg 146,212,206,236,1 204,392,439,423,2 53,169,479,450,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0642-front.jpg 161,151,232,182,1 239,349,491,382,2 57,112,551,434,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0390-front.jpg 109,64,206,102,1 191,277,458,312,2 22,18,526,332,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0288-front.jpg 157,68,217,94,1 228,265,483,292,2 62,37,537,335,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0449-front.jpg 158,99,288,145,1 298,443,755,496,2 6,20,829,554,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0121-front.jpg 309,594,444,652,1 438,995,931,1058,2 122,525,1052,1119,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0086-back.jpg 336,383,546,417,0 138,112,625,433,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0552-back.jpg 368,1025,791,1093,0 1,512,960,1155,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0230-back.jpg 280,276,487,307,0 74,15,577,335,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0043-back.jpg 575,821,1184,911,0 1,52,1437,986,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0541-back.jpg 277,372,506,405,0 58,81,613,440,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0118-front.jpg 181,97,240,121,1 239,270,462,294,2 106,66,509,322,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0918-back.jpg 415,872,818,930,0 15,377,991,996,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0333-back.jpg 613,823,1198,896,0 37,66,1433,972,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0713-front.jpg 141,59,229,90,1 226,276,504,309,2 42,13,558,347,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0916-back.jpg 327,658,562,699,0 82,369,651,738,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0222-front.jpg 153,476,252,522,1 265,785,657,831,2 20,420,737,880,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0849-back.jpg 228,283,413,317,0 44,57,487,338,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0159-front.jpg 167,148,222,174,1 237,325,473,356,2 85,117,527,394,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0113-front.jpg 112,34,217,77,1 221,335,596,375,2 1,1,639,408,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0080-front.jpg 73,25,128,45,1 128,198,372,223,2 1,1,407,246,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0335-back.jpg 192,418,304,440,0 42,216,410,463,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0318-front.jpg 153,48,225,82,1 234,280,534,316,2 56,5,598,350,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0017-front.jpg 242,174,343,213,1 341,499,758,548,2 81,114,840,595,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0246-front.jpg 302,190,423,237,1 420,552,876,603,2 144,124,960,642,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0579-front.jpg 182,94,266,131,1 284,375,641,413,2 59,35,719,462,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0696-back.jpg 636,837,1190,906,0 75,115,1440,993,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0268-back.jpg 186,450,389,483,0 3,207,471,505,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0692-back.jpg 376,686,701,737,0 12,249,851,776,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0556-back.jpg 382,871,672,923,0 1,354,966,969,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0352-front.jpg 152,342,240,383,1 225,624,591,678,2 11,297,679,740,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0056-front.jpg 156,80,214,104,1 218,260,450,286,2 67,47,496,318,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0663-front.jpg 117,52,200,91,1 214,338,570,377,2 1,1,640,414,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0305-front.jpg 718,261,886,343,1 934,810,1627,901,2 462,159,1769,1007,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0490-back.jpg 199,416,400,446,0 6,172,480,468,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0006-front.jpg 143,80,211,109,1 230,323,544,359,2 29,18,613,398,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0214-front.jpg 136,45,217,80,1 220,289,534,326,2 26,4,602,359,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0267-back.jpg 431,527,764,575,0
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0919-back.jpg 379,865,759,932,0 57,398,945,983,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0045-front.jpg 237,172,350,216,1 380,574,881,632,2 57,86,991,688,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0238-back.jpg 261,337,539,373,0 1,1,640,406,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0634-front.jpg 846,323,991,395,1 988,790,1646,866,2 570,228,1788,946,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0847-front.jpg 210,143,344,201,1 374,627,986,691,2 5,49,1136,788,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0493-back.jpg 227,627,464,665,0 13,338,561,693,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0194-back.jpg 263,375,485,411,0 48,115,564,447,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0514-front.jpg 142,99,238,135,1 234,361,563,397,2 24,45,632,442,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0521-back.jpg 195,489,392,519,0 1,243,470,543,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0310-front.jpg 187,131,257,160,1 259,331,506,359,2 92,99,550,393,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0368-front.jpg 222,82,402,145,1 409,585,1046,649,2 3,2,1147,712,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0868-front.jpg 82,35,148,61,1 150,227,384,253,2 1,1,441,283,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0871-front.jpg 155,118,234,146,1 222,361,567,400,2 6,68,640,444,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0775-back.jpg 542,712,1022,780,0 66,133,1152,854,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0859-back.jpg 507,729,821,791,0 97,177,1124,846,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0921-front.jpg 85,250,157,283,1 156,460,414,493,2 1,206,478,525,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0602-front.jpg 164,88,197,102,1 195,181,310,195,2 211,352,296,366,0 119,67,336,213,3 122,239,336,383,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0071-back.jpg 144,188,293,209,0 2,3,359,228,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0410-back.jpg 201,398,389,425,0 8,161,474,455,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0616-front.jpg 119,315,181,345,1 214,503,456,535,2 18,278,471,572,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0470-back.jpg 283,357,504,386,0 70,93,582,419,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0506-front.jpg 158,76,194,92,1 196,183,333,199,2 110,56,355,209,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0004-back.jpg 269,337,542,375,0 1,1,638,418,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0610-back.jpg 340,759,619,824,0 31,414,728,861,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0520-front.jpg 142,104,237,141,1 234,375,568,410,2 22,40,632,445,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0860-front.jpg 256,155,320,182,1 319,346,552,375,2 160,113,606,409,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0902-back.jpg 451,555,773,604,0 119,136,902,648,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0808-back.jpg 258,327,509,361,0 7,4,626,387,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0618-front.jpg 261,175,318,197,1 321,348,548,378,2 175,144,602,407,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0595-back.jpg 286,743,551,785,0 26,405,678,822,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0324-front.jpg 123,91,213,128,1 204,366,562,409,2 2,34,632,445,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0700-back.jpg 336,678,665,678,0 333,514,666,568,0 12,94,836,626,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0239-front.jpg 445,212,630,292,1 671,817,1441,898,2 152,94,1573,994,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0014-front.jpg 125,104,211,134,1 215,370,564,410,2 1,53,633,454,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0312-back.jpg 270,287,512,318,0 28,1,613,359,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0112-back.jpg 265,359,527,398,0 7,33,636,426,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0721-back.jpg 291,474,582,517,0 16,111,713,561,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0485-back.jpg 524,677,824,747,0 97,149,1076,825,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0095-front.jpg 34,9,60,24,1 62,92,166,104,2 1,1,188,114,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0532-front.jpg 178,458,277,508,1 272,750,643,799,2 25,402,721,851,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0856-back.jpg 488,650,880,707,0 89,167,1031,781,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0668-back.jpg 330,701,630,749,0 44,340,751,792,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0693-front.jpg 302,549,416,608,1 430,894,885,949,2 137,479,982,1016,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0072-front.jpg 174,110,246,140,1 247,334,529,365,2 67,73,583,405,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0048-front.jpg 189,79,239,100,1 242,222,423,248,2 114,44,467,273,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0798-front.jpg 313,202,433,253,1 437,565,854,608,2 139,126,992,665,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0841-front.jpg 223,126,334,174,1 341,485,783,536,2 59,57,883,608,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0734-back.jpg 737,840,1387,926,0 89,57,1692,1033,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0089-front.jpg 160,133,220,159,1 228,344,495,374,2 55,99,544,411,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0286-front.jpg 66,31,109,48,1 111,161,277,179,2 9,4,303,196,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0400-front.jpg 160,60,233,95,1 229,262,475,290,2 75,26,532,322,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0831-back.jpg 337,753,628,819,0 60,369,791,861,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0173-back.jpg 245,312,424,347,0 4,1,589,377,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0832-back.jpg 309,378,582,417,0 27,18,698,452,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0807-front.jpg 109,420,187,452,1 183,661,511,698,2 1,367,584,758,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0114-back.jpg 196,451,369,480,0 44,255,425,495,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0386-front.jpg 109,47,208,92,1 201,318,557,365,2 1,1,631,385,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0794-front.jpg 165,30,246,63,1 254,282,579,312,2 38,1,640,357,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0848-front.jpg 219,183,306,224,1 322,473,677,513,2 90,120,763,556,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0103-back.jpg 260,325,520,365,0
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0620-back.jpg 193,358,386,388,0 5,111,474,415,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0881-back.jpg 503,646,920,716,0 86,118,1073,772,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0627-front.jpg 168,71,238,100,1 243,273,504,304,2 68,28,558,343,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0091-front.jpg 160,108,230,135,1 229,328,506,359,2 60,74,565,398,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0458-front.jpg 208,101,278,136,1 281,306,531,342,2 104,70,574,373,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0813-front.jpg 156,261,278,315,1 276,603,693,652,2 3,189,780,701,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0336-front.jpg 309,301,396,341,1 408,588,767,626,2 181,247,847,670,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0786-front.jpg 137,142,199,170,1 218,370,501,398,2 25,93,565,435,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0818-front.jpg 189,76,307,127,1 362,421,785,465,2 14,10,814,527,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0133-back.jpg 224,352,376,379,0 76,183,433,399,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0348-front.jpg 194,115,264,146,1 268,349,563,386,2 89,87,625,423,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0344-back.jpg 241,351,485,383,0 6,39,586,417,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0720-front.jpg 508,340,659,408,1 668,800,1249,872,2 307,243,1376,932,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0261-back.jpg 425,566,806,624,0 62,87,961,675,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0574-front.jpg 68,432,123,460,1 120,581,319,610,2 5,398,362,636,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0196-front.jpg 317,148,558,238,1 553,846,1428,933,2 14,43,1610,1030,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0879-back.jpg 510,691,927,752,0 51,142,1115,831,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0483-back.jpg 244,271,471,308,0 18,29,563,346,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0656-back.jpg 619,802,1190,889,0 13,59,1432,979,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0508-front.jpg 202,478,357,535,1 379,838,870,923,2 19,365,965,1011,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0359-back.jpg 303,681,606,731,0 20,312,727,780,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0210-front.jpg 57,150,138,184,1 156,362,419,392,2 1,98,480,414,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0806-back.jpg 961,855,1583,950,0 308,75,1830,1048,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0640-back.jpg 634,688,991,743,0 264,218,1135,806,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0428-front.jpg 143,186,194,208,1 191,307,354,329,2 89,165,386,351,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0078-front.jpg 236,145,365,193,1 358,525,835,577,2 70,84,938,646,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0323-back.jpg 257,389,462,423,0 41,124,550,455,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0703-front.jpg 154,150,233,181,1 229,379,527,411,2 29,100,584,450,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0864-back.jpg 240,420,505,471,0 1,82,616,508,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0624-front.jpg 236,507,388,579,1 392,944,964,1018,2 15,426,1061,1085,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0785-front.jpg 198,216,301,260,1 303,543,714,593,2 34,152,808,652,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0399-back.jpg 298,269,508,301,0 100,18,588,326,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0671-front.jpg 60,233,114,262,1 116,392,316,423,2 1,201,359,442,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0413-back.jpg 141,387,278,412,0 4,207,358,433,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0686-back.jpg 782,721,1308,802,0 262,58,1548,888,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0429-front.jpg 63,293,107,315,1 96,415,243,442,2 5,271,285,457,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0569-front.jpg 74,312,112,333,1 107,421,251,442,2 26,296,275,457,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0129-front.jpg 197,142,322,191,1 325,534,816,581,2 16,65,911,638,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0289-back.jpg 182,474,375,506,0 15,250,452,526,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0835-front.jpg 142,199,221,232,1 222,425,508,457,2 30,151,571,496,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0858-front.jpg 121,125,213,160,1 210,391,550,427,2 1,76,631,472,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0914-back.jpg 168,520,579,573,0 1,4,639,631,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0380-front.jpg 152,145,224,177,1 241,387,562,432,2 45,96,625,474,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0365-front.jpg 197,80,255,105,1 258,245,459,268,2 122,52,511,291,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0531-back.jpg 193,452,384,482,0 11,222,480,515,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0218-front.jpg 374,174,491,228,1 507,520,932,570,2 218,119,1036,626,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0690-back.jpg 857,875,1273,952,0 284,159,1684,1043,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0771-front.jpg 97,131,168,161,1 167,318,434,351,2 2,94,480,404,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0647-back.jpg 318,722,621,772,0 1,382,731,839,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0465-front.jpg 105,243,181,274,1 167,429,416,471,2 21,205,460,487,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0666-front.jpg 315,217,424,261,1 423,529,844,572,2 152,161,921,635,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0588-front.jpg 524,328,640,378,1 633,642,1044,700,2 370,264,1136,758,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0154-back.jpg 199,419,408,453,0 2,170,480,477,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0569-back.jpg 133,377,264,396,0 4,225,314,422,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0744-front.jpg 119,47,184,80,1 195,276,481,309,2 4,4,534,346,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0416-front.jpg 234,134,365,188,1 370,504,836,560,2 62,64,928,616,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0780-front.jpg 171,141,307,191,1 314,558,853,624,2 1,44,981,696,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0515-front.jpg 175,243,308,261,0 159,318,210,339,1 206,465,392,488,2 36,81,364,280,4 86,289,436,515,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0653-front.jpg 140,61,243,97,1 243,357,611,399,2 2,1,684,436,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0817-front.jpg 192,208,325,262,1 319,557,756,610,2 21,129,846,667,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0573-front.jpg 93,200,162,231,1 161,389,410,418,2 14,165,456,448,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0047-front.jpg 588,171,807,260,1 792,836,1571,924,2 296,35,1783,1023,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0678-front.jpg 79,34,141,57,1 144,208,366,234,2 1,1,412,257,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0544-back.jpg 256,341,527,382,0 1,1,640,415,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0308-front.jpg 137,125,209,159,1 220,365,512,394,2 30,82,577,431,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0630-front.jpg 135,47,190,75,1 198,237,452,267,2 39,2,502,297,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0570-back.jpg 225,382,515,423,0 1,14,640,464,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0116-front.jpg 145,122,219,151,1 210,343,504,375,2 43,92,575,413,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0431-back.jpg 256,268,456,295,0 41,47,543,330,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0046-front.jpg 175,95,259,134,1 271,386,643,428,2 37,43,716,479,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0023-back.jpg 530,690,1085,768,0 1,1,1312,836,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0402-back.jpg 238,440,385,460,0 95,252,453,478,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0024-back.jpg 258,331,520,367,0 3,11,638,410,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0511-back.jpg 511,478,746,516,0 280,176,860,552,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0281-back.jpg 256,348,522,386,0 6,2,638,405,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0011-front.jpg 116,353,165,376,1 166,501,357,528,2 41,324,401,553,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0522-back.jpg 313,351,471,375,0 155,147,540,397,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0486-front.jpg 198,78,269,110,1 274,262,517,296,2 117,36,567,335,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0076-back.jpg 167,346,292,368,0 51,199,352,385,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0060-back.jpg 244,378,540,420,0 2,9,640,464,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0740-front.jpg 168,452,295,505,1 291,786,724,841,2 22,382,821,898,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0578-front.jpg 293,166,423,216,1 418,507,886,560,2 132,93,970,621,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0885-back.jpg 305,325,553,367,0 43,96,657,426,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0730-front.jpg 215,398,299,443,1 295,663,628,694,2 95,351,696,742,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0207-back.jpg 419,1227,784,1280,0 67,791,915,1343,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0005-front.jpg 144,394,219,427,1 242,655,633,712,2 11,301,735,773,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0341-front.jpg 114,339,205,377,1 203,596,519,630,2 4,287,585,668,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0385-front.jpg 186,142,356,215,1 354,574,892,646,2 6,63,981,716,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0607-front.jpg 315,232,465,294,1 445,643,961,706,2 111,146,1085,781,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0869-back.jpg 497,692,962,761,0 25,95,1163,832,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0309-back.jpg 346,701,637,756,0 83,361,755,787,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0649-front.jpg 168,151,268,200,1 272,439,634,486,2 48,104,722,540,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0584-front.jpg 144,70,222,106,1 224,294,517,326,2 49,27,573,360,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0112-front.jpg 120,89,199,127,1 218,360,562,396,2 2,36,633,434,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0827-front.jpg 117,102,195,135,1 205,377,572,412,2 1,42,640,464,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0267-front.jpg 279,110,423,177,1 424,559,944,617,2
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0737-back.jpg 335,851,678,895,0 2,402,844,951,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0539-back.jpg 118,383,249,403,0 1,215,295,423,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0920-back.jpg 276,401,434,426,0 112,196,513,451,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0227-back.jpg 226,430,343,448,0 171,118,212,136,1 211,230,353,247,2 120,99,383,270,3 124,294,383,464,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0717-back.jpg 373,920,788,976,0 1,410,960,1054,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0674-back.jpg 466,665,927,730,0 21,67,1145,787,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0432-back.jpg 185,311,397,339,0 1,44,479,365,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0630-back.jpg 280,225,467,254,0 92,1,548,283,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0397-back.jpg 146,315,287,337,0 21,148,336,352,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0585-back.jpg 244,379,524,419,0 1,9,640,454,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0316-back.jpg 254,288,498,320,0 6,4,596,353,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0799-front.jpg 124,94,200,129,1 207,340,525,382,2 17,58,597,431,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0010-front.jpg 108,108,197,141,1 202,381,562,423,2 2,54,624,475,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0221-back.jpg 257,344,527,382,0 1,1,640,412,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0898-front.jpg 189,442,280,480,1 283,719,642,767,2 60,362,738,810,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0099-front.jpg 135,98,207,131,1 219,359,541,394,2 6,56,604,439,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0550-front.jpg 255,187,410,259,1 413,649,976,712,2 59,104,1097,787,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0883-front.jpg 269,138,396,186,1 405,526,893,593,2 59,58,980,650,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0082-front.jpg 196,139,254,165,1 265,345,513,373,2 100,96,570,403,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0344-front.jpg 121,99,211,132,1 210,352,532,385,2 9,55,596,432,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0615-back.jpg 296,305,494,337,0 112,62,576,360,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0883-back.jpg 440,535,787,580,0 80,82,924,642,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0154-front.jpg 86,178,159,209,1 166,397,437,427,2 1,143,480,454,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0447-front.jpg 202,71,261,101,1 270,261,525,293,2 117,30,574,324,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0695-back.jpg 416,887,837,945,0 1,349,1030,1003,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0687-front.jpg 141,418,236,461,1 233,700,615,751,2 7,358,677,795,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0146-back.jpg 299,346,543,382,0 62,48,638,421,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0897-back.jpg 297,371,579,406,0 26,16,695,445,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0844-back.jpg 179,241,363,268,0 1,2,451,298,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0779-front.jpg 99,424,203,478,1 202,728,602,775,2 1,342,692,823,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0464-front.jpg 577,268,712,341,1 708,640,1203,697,2 400,188,1305,770,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0523-back.jpg 284,478,548,521,0 15,134,670,556,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0728-back.jpg 461,531,837,588,0 5,18,1007,660,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0242-back.jpg 425,689,665,733,0 199,436,757,775,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0410-front.jpg 100,219,162,244,1 163,395,395,423,2 15,184,442,455,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0868-back.jpg 184,227,366,252,0 1,1,443,274,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0479-front.jpg 173,354,274,402,1 257,634,616,681,2 49,312,688,714,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0353-front.jpg 290,99,548,202,1 567,874,1513,974,2 2,2,1694,1061,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0107-back.jpg 631,496,916,544,0 331,119,1030,587,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0045-back.jpg 443,597,733,653,0 58,95,990,705,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0894-front.jpg 120,186,203,220,1 195,427,506,473,2 13,138,583,509,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0884-back.jpg 432,542,821,600,0 18,41,962,668,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0468-back.jpg 310,596,624,637,0 8,210,749,660,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0921-back.jpg 201,441,390,468,0 10,198,480,496,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0392-back.jpg 116,441,239,465,0 9,290,293,477,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0772-front.jpg 182,436,300,490,1 296,744,703,797,2 40,362,798,867,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0367-back.jpg 286,875,616,924,0 1,480,741,970,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0661-back.jpg 169,225,344,252,0 1,1,428,272,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0422-back.jpg 284,339,497,369,0 86,82,583,395,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0175-front.jpg 158,105,241,140,1 242,355,542,389,2 46,65,609,428,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0264-front.jpg 110,218,173,247,1 175,418,429,453,2 20,181,480,485,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0315-front.jpg 147,69,218,99,1 211,275,468,306,2 54,38,522,336,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0393-back.jpg 449,536,901,600,0 2,1,1013,637,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0500-front.jpg 93,240,166,272,1 159,440,421,485,2 10,201,478,505,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0203-back.jpg 337,916,691,962,0 12,475,844,1009,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0536-front.jpg 283,480,445,506,0 49,184,606,541,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0473-back.jpg 597,787,1154,871,0 93,142,1367,953,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0263-front.jpg 175,120,246,151,1 243,327,508,355,2 73,88,557,388,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0691-back.jpg 365,484,745,536,0 3,1,895,565,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0067-front.jpg 155,71,219,94,1 211,263,465,292,2 52,34,521,323,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0826-back.jpg 528,437,804,487,0 257,74,926,513,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0254-front.jpg 112,108,208,145,1 210,386,561,422,2 4,58,640,458,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0367-front.jpg 164,505,268,551,1 259,844,685,905,2 2,449,774,967,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0759-front.jpg 260,177,411,243,1 464,673,1051,776,2 1,56,1144,864,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0805-front.jpg 376,294,525,352,1 532,744,1111,808,2 152,195,1226,873,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0401-back.jpg 199,444,324,464,0 145,143,183,162,1 188,264,351,284,2 81,122,376,300,3 80,297,374,483,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0347-back.jpg 266,346,481,380,0 55,87,571,411,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0250-back.jpg 516,798,1052,889,0 9,146,1276,958,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0155-front.jpg 153,333,261,376,1 268,639,657,683,2 21,264,737,733,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0867-front.jpg 128,136,211,169,1 223,380,528,418,2 18,73,602,453,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0262-back.jpg 823,803,1320,886,0 362,210,1506,947,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0089-back.jpg 290,336,478,365,0 104,117,553,397,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0006-back.jpg 265,320,497,352,0 35,23,606,387,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0757-back.jpg 185,497,377,528,0 8,269,467,560,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0195-front.jpg 152,102,229,138,1 237,362,557,399,2 31,47,622,436,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0299-back.jpg 634,841,1159,915,0 103,210,1363,1002,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0363-front.jpg 128,124,210,156,1 206,384,540,418,2 3,77,618,458,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0164-front.jpg 147,388,251,429,1 244,682,627,719,2 14,332,702,768,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0310-back.jpg 303,359,513,392,0 92,97,593,421,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0152-front.jpg 129,341,175,363,1 202,495,392,516,2 47,313,403,540,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0194-front.jpg 160,140,234,175,1 283,387,575,419,2 34,98,597,451,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0660-front.jpg 372,120,528,188,1 528,584,1029,637,2 125,18,1121,725,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0468-front.jpg 152,285,260,342,1 252,608,690,661,2 11,227,750,682,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0225-front.jpg 100,234,166,260,1 166,423,424,456,2 5,198,475,494,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0337-back.jpg 461,571,839,627,0 57,93,1000,695,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0386-back.jpg 250,327,524,362,0 1,1,634,396,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0887-back.jpg 534,659,1059,733,0 1,1,1247,795,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0744-back.jpg 298,558,523,589,0 89,283,627,624,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0249-back.jpg 128,387,279,413,0 1,225,338,431,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0014-back.jpg 248,359,517,394,0 6,29,636,432,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0854-front.jpg 422,379,590,439,1 609,873,1214,934,2 178,274,1346,1020,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0810-front.jpg 208,168,325,216,1 361,556,845,610,2 33,80,958,675,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0136-back.jpg 283,340,504,371,0 73,75,581,398,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0083-front.jpg 128,88,216,122,1 219,358,574,395,2 1,48,639,449,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0857-back.jpg 371,1028,645,1084,0 12,574,895,1139,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0070-front.jpg 127,105,173,125,2 174,267,364,288,2 58,78,398,312,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0705-front.jpg 150,65,257,102,1 256,381,649,427,2 3,4,740,472,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0036-back.jpg 291,312,560,363,0 5,2,637,415,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0825-front.jpg 155,69,271,126,1 297,455,781,508,2 3,1,896,566,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0636-front.jpg 217,423,339,486,1 324,765,721,831,2 67,344,839,877,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0857-front.jpg 198,692,323,746,1 325,1063,810,1126,2 18,612,912,1193,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0912-back.jpg 348,613,712,665,0 4,167,866,720,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0382-front.jpg 199,86,269,114,1 263,288,536,318,2 81,51,581,347,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0077-back.jpg 552,720,1134,799,0 3,1,1361,868,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0336-back.jpg 477,554,765,598,0 195,189,881,631,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0164-back.jpg 282,718,553,770,0 38,402,666,801,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0307-back.jpg 370,599,567,637,0 173,378,640,666,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0252-back.jpg 185,219,317,240,0 52,64,364,263,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0384-front.jpg 107,239,174,273,1 171,421,415,460,2 24,203,448,480,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0716-back.jpg 414,607,823,660,0 1,49,987,732,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0245-back.jpg 420,609,734,653,0 129,225,867,693,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0896-back.jpg 1125,788,1755,890,0 513,45,2046,965,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0652-front.jpg 273,226,403,289,1 474,590,902,637,2 41,137,945,707,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0339-front.jpg 238,442,382,499,1 398,849,931,915,2 60,352,1040,990,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0716-front.jpg 213,205,345,266,1 426,612,918,677,2 1,121,957,741,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0306-front.jpg 147,56,262,106,1 271,414,712,460,2 1,2,798,499,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0584-back.jpg 257,280,472,315,0 51,16,568,353,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0347-front.jpg 123,262,186,288,1 180,444,410,474,2 37,234,458,503,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0919-front.jpg 188,671,297,718,1 301,1001,725,1069,2 47,598,828,1126,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0354-back.jpg 259,345,532,382,0 1,1,640,400,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0553-front.jpg 118,51,215,90,1 213,329,574,373,2 1,1,640,401,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0660-back.jpg 551,597,951,667,0 92,6,1109,753,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0433-back.jpg 268,346,486,377,0 58,91,571,414,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0906-front.jpg 260,607,391,660,1 396,987,887,1049,2 97,530,1019,1139,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0424-back.jpg 1149,812,1783,895,0 524,1,2065,988,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0240-back.jpg 458,883,830,939,0 118,452,985,996,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0255-back.jpg 272,683,587,732,0 9,315,719,769,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0037-front.jpg 135,61,197,88,1 213,288,508,318,2 40,12,573,355,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0727-back.jpg 415,527,786,577,0 60,71,940,641,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0548-back.jpg 154,522,348,557,0 1,273,433,591,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0905-back.jpg 324,764,542,805,0 22,360,761,853,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0648-back.jpg 219,283,436,313,0 4,5,538,345,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0273-front.jpg 303,141,541,234,1 540,823,1403,925,2 5,21,1584,1011,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0150-front.jpg 246,152,399,213,1 406,586,937,645,2 50,72,1040,700,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0334-back.jpg 220,293,442,321,0 2,1,550,354,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0799-back.jpg 265,364,470,395,0 69,111,561,428,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0544-front.jpg 118,47,198,89,1 217,336,569,378,2 1,1,640,415,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0745-front.jpg 141,150,218,180,1 220,372,497,406,2 43,100,568,437,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0743-front.jpg 112,67,185,94,1 191,287,472,316,2 6,24,511,352,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0103-front.jpg 139,120,207,152,1 223,363,530,400,2 29,78,599,437,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0687-back.jpg 281,548,594,597,0 1,179,735,637,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0169-front.jpg 302,218,441,271,1 455,613,960,675,2 113,129,1050,751,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0609-back.jpg 342,447,588,492,0 97,151,691,548,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0646-front.jpg 130,213,256,268,1 260,545,670,592,2 1,161,744,655,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0568-front.jpg 241,97,293,121,1 297,249,486,269,2 171,69,526,300,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0015-back.jpg 196,410,378,436,0 23,191,454,473,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0673-front.jpg 148,86,231,120,1 230,328,529,360,2 37,38,594,399,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0383-front.jpg 126,324,182,350,1 194,511,439,544,2 42,290,478,578,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0605-front.jpg 539,690,922,754,0 129,201,1073,838,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0203-front.jpg 172,500,278,551,1 294,852,742,906,2 15,442,827,963,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0392-front.jpg 57,309,104,328,1 99,430,257,454,2 3,282,285,470,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0088-back.jpg 895,851,1542,958,0 291,71,1836,1063,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0162-front.jpg 192,390,315,439,1 298,740,756,800,2 7,331,843,844,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0482-front.jpg 129,82,222,124,1 220,349,557,386,2 10,33,619,423,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0161-back.jpg 328,763,635,818,0 35,390,763,853,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0351-back.jpg 264,334,525,365,0 1,1,640,396,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0524-back.jpg 250,543,453,576,0 69,306,544,606,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0272-back.jpg 278,343,538,382,0 27,38,625,427,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0827-back.jpg 254,383,535,428,0 1,24,640,464,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0175-back.jpg 263,355,511,399,0 20,60,602,444,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0651-front.jpg 119,88,204,128,1 209,356,549,390,2 18,42,630,438,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0200-front.jpg 160,74,230,102,1 233,268,480,295,2 69,39,523,332,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0703-back.jpg 273,377,467,414,0 6,55,633,456,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0117-front.jpg 84,99,156,128,1 152,302,403,336,2 5,61,475,367,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0858-back.jpg 248,398,443,432,0 1,66,628,470,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0247-front.jpg 207,407,313,447,1 351,717,732,764,2 42,357,747,811,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0574-back.jpg 160,413,313,436,0 7,223,379,464,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0553-back.jpg 259,341,527,377,0 2,1,639,401,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0601-back.jpg 260,342,507,376,0
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0443-front.jpg 138,104,211,136,1 232,323,538,366,2 34,43,607,414,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0232-front.jpg 238,119,280,141,1 275,235,425,257,2 280,681,390,700,0 184,94,458,273,3 165,538,444,714,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0453-back.jpg 855,863,1549,946,0 189,4,1862,1055,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0747-back.jpg 405,562,842,626,0 4,65,1008,700,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0867-back.jpg 272,356,507,396,0 16,52,605,443,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0134-back.jpg 403,594,839,655,0 9,65,1025,711,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0804-front.jpg 197,165,417,223,1 365,649,989,728,2 1,65,1130,812,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0705-back.jpg 296,374,585,413,0 4,3,709,449,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0872-back.jpg 202,429,388,459,0 1,184,480,495,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0365-back.jpg 275,260,423,280,0 131,64,501,298,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0098-back.jpg 282,385,543,425,0 25,64,640,452,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0408-front.jpg 102,250,174,275,1 172,435,416,462,2 17,215,452,492,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0156-back.jpg 399,1034,930,1130,0 2,455,1052,1167,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0769-front.jpg 87,45,154,75,1 160,261,429,289,2 2,1,479,304,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0585-front.jpg 99,78,202,122,1 209,390,592,433,2 1,11,640,474,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0587-front.jpg 206,173,277,200,1 275,362,521,394,2 109,134,576,426,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0420-front.jpg 133,372,237,423,1 225,661,583,715,2 13,326,663,747,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0684-back.jpg 448,553,846,623,0 3,43,997,701,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0749-front.jpg 453,259,564,313,1 557,585,968,644,2 302,189,1053,687,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0789-back.jpg 404,622,841,693,0 8,38,1003,736,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0345-back.jpg 279,344,501,378,0 71,65,608,413,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0364-front.jpg 458,189,662,261,1 668,821,1462,908,2 157,76,1623,1022,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0472-front.jpg 350,247,455,298,1 442,563,823,611,2 201,191,895,656,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0025-back.jpg 489,675,906,730,0 77,146,1075,789,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0330-back.jpg 813,868,1454,959,0 192,75,1698,1051,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0131-front.jpg 543,297,622,330,1 625,527,927,563,2 444,254,989,601,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0219-front.jpg 182,105,262,137,1 262,330,546,363,2 89,67,607,396,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0174-front.jpg 163,255,250,290,1 252,494,572,530,2 61,180,639,567,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0115-back.jpg 189,499,396,528,0 1,241,478,554,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0801-front.jpg 174,418,272,463,1 272,705,669,762,2 14,344,744,824,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0546-back.jpg 284,351,489,382,0 71,82,586,412,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0362-back.jpg 473,569,764,623,0 181,227,886,684,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0739-back.jpg 205,471,373,493,0 29,248,453,519,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0587-back.jpg 263,318,491,354,0 57,27,612,384,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0319-front.jpg 193,177,254,206,1 261,385,523,412,2 97,136,573,444,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0610-front.jpg 227,486,329,527,1 311,779,705,844,2 63,415,729,890,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0843-front.jpg 200,567,264,601,1 266,769,522,807,2 105,528,588,852,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0572-front.jpg 205,778,286,821,1 282,1022,574,1074,2 69,724,619,1127,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0208-back.jpg 262,335,529,370,0 1,2,639,393,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0754-front.jpg 125,239,179,265,1 174,379,354,408,2 55,219,391,431,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0312-front.jpg 90,264,162,291,1 163,461,415,488,2 10,235,473,524,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0177-front.jpg 184,377,270,417,1 261,667,631,714,2 25,325,703,750,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0912-front.jpg 234,156,370,211,1 364,557,879,616,2 18,88,973,688,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0562-front.jpg 209,119,271,145,1 289,281,502,318,2 134,77,519,339,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0480-front.jpg 195,491,291,533,1 283,766,669,813,2 45,447,725,865,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0704-front.jpg 123,388,234,442,1 239,689,621,743,2 1,329,714,784,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0793-back.jpg 301,589,596,630,0 2,214,721,671,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0579-back.jpg 312,356,572,390,0 46,14,700,432,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0726-back.jpg 383,1032,758,1090,0 30,567,934,1157,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0051-front.jpg 239,157,296,180,1 294,333,517,358,2 156,122,560,388,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0599-back.jpg 305,338,476,362,0 125,113,550,391,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0911-front.jpg 371,208,571,299,1 568,835,1354,917,2 57,103,1543,1033,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0821-front.jpg 250,171,410,239,1 406,606,880,666,2 10,63,1016,755,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0255-front.jpg 194,68,304,131,1 331,495,858,551,2 4,3,971,608,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0260-back.jpg 894,843,1559,954,0 208,14,1843,1032,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0061-front.jpg 212,117,244,132,1 249,229,390,244,2 160,99,426,263,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0415-front.jpg 246,180,308,201,1 304,327,505,352,2 171,142,556,368,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0326-front.jpg 559,354,724,418,1 724,838,1334,911,2 307,265,1473,1000,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0190-back.jpg 297,344,507,378,0 75,88,586,427,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0474-back.jpg 276,364,518,400,0 54,76,616,428,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0683-back.jpg 507,577,888,628,0 102,54,1090,664,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0140-front.jpg 170,170,242,199,1 237,393,527,426,2 51,135,586,462,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0555-back.jpg 258,335,530,378,0 1,1,640,413,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0888-back.jpg 187,395,339,420,0 36,196,417,441,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0597-back.jpg 433,955,805,1016,0 65,517,938,1083,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0498-front.jpg 467,239,660,336,1 693,853,1489,949,2 188,111,1655,1051,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0224-back.jpg 132,371,260,397,0 13,222,311,418,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0254-back.jpg 261,361,508,396,0 11,43,623,431,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0822-front.jpg 206,84,342,152,1 365,551,973,623,2 1,1,1106,687,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0241-front.jpg 669,222,853,300,1 850,759,1556,845,2 378,125,1688,931,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0496-back.jpg 295,336,509,365,0 88,62,611,400,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0729-front.jpg 222,356,340,411,1 338,688,750,736,2 58,290,834,787,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0184-back.jpg 267,331,470,371,0 1,1,638,400,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0172-back.jpg 644,584,1211,703,0 103,3,1456,758,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0726-front.jpg 200,619,335,673,1 318,960,761,1038,2 40,553,864,1083,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0366-back.jpg 260,220,410,243,0 117,35,477,259,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0394-front.jpg 272,101,454,184,1 478,711,1239,790,2 3,1,1385,866,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0130-back.jpg 241,377,553,422,0 1,5,639,465,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0815-back.jpg 323,791,678,846,0 1,340,829,900,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0272-front.jpg 162,97,244,131,1 242,357,575,391,2 33,60,632,436,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0162-back.jpg 348,678,694,736,0 38,252,843,761,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0248-front.jpg 289,551,369,584,1 363,778,675,815,2 181,506,736,853,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0778-back.jpg 327,850,665,903,0 18,432,809,950,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0516-back.jpg 269,392,535,429,0 1,46,640,463,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0113-back.jpg 246,354,536,392,0 1,3,639,415,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0198-back.jpg 249,392,494,425,0 16,97,595,461,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0792-front.jpg 145,427,236,457,1 238,678,617,729,2 1,355,706,798,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0467-front.jpg 352,258,513,322,1 514,679,1055,745,2 155,190,1148,830,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0229-front.jpg 102,174,173,203,1 204,383,456,412,2 1,142,466,445,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0372-back.jpg 297,716,588,755,0 30,348,714,788,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0423-back.jpg 327,299,485,321,0 157,95,558,349,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0131-back.jpg 614,618,849,660,0 390,325,938,684,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0505-front.jpg 220,112,298,149,1 288,338,565,380,2 99,70,622,411,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0568-back.jpg 306,280,465,305,0 134,69,539,331,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0044-back.jpg 283,248,431,275,0 134,57,501,309,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0334-front.jpg 102,50,176,78,1 171,259,432,291,2 3,16,484,324,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0581-back.jpg 279,345,517,375,0 30,25,635,406,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0662-front.jpg 318,264,433,305,1 461,538,872,613,2 172,157,953,704,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0019-front.jpg 154,54,232,86,1 232,303,543,334,2 30,12,605,358,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0737-front.jpg 168,474,295,530,1 285,813,720,872,2 20,412,807,916,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0128-front.jpg 80,258,129,281,1 133,397,317,422,2 14,224,352,449,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0812-back.jpg 412,557,832,619,0 1,10,1027,680,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0295-back.jpg 133,348,246,367,0 21,201,298,384,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0664-front.jpg 254,221,355,256,1 333,518,795,565,2 75,154,912,630,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0243-front.jpg 289,281,397,321,1 383,601,813,649,2 133,227,925,701,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0426-front.jpg 101,311,165,336,1 164,489,395,518,2 19,278,440,545,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0582-front.jpg 258,182,401,244,1 397,606,950,670,2 42,111,1043,746,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0199-front.jpg 151,142,234,174,1 235,375,527,408,2 45,103,581,447,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0305-back.jpg 960,859,1543,937,0 332,79,1766,1006,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0235-front.jpg 164,405,280,458,1 280,747,733,795,2 8,349,814,870,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0755-front.jpg 242,156,358,204,1 350,523,840,584,2 29,90,949,640,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0420-back.jpg 286,712,558,750,0 31,378,662,784,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0234-front.jpg 206,435,306,479,1 304,717,691,769,2 59,382,765,820,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0890-back.jpg 278,318,463,343,0 87,80,543,375,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0427-front.jpg 135,102,281,164,1 304,572,888,628,2 1,40,989,701,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0606-front.jpg 240,150,405,216,1 400,590,948,657,2 41,59,1082,721,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0525-front.jpg 260,166,366,216,1 354,475,738,543,2 110,113,819,583,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0066-back.jpg 281,281,482,312,0 85,26,575,338,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0189-back.jpg 195,406,383,437,0 24,197,461,464,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0104-back.jpg 454,600,970,668,0 2,1,1172,730,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0205-back.jpg 239,470,383,492,0 98,289,435,510,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0411-back.jpg 785,705,1177,760,0 394,234,1337,819,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0532-back.jpg 285,768,565,816,0 1,402,700,857,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0590-back.jpg 160,333,293,356,0 7,151,355,390,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0443-back.jpg 267,312,498,343,0 34,27,599,378,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0926-front.jpg 150,74,240,115,1 255,385,650,429,2 3,5,731,472,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0389-front.jpg 155,46,251,96,1 242,303,573,351,2 50,5,631,376,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0749-back.jpg 471,660,857,716,0 101,178,1023,771,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0171-front.jpg 169,118,250,150,1 254,364,575,398,2 47,69,634,434,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0176-back.jpg 239,318,494,357,0 4,16,605,391,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0888-front.jpg 117,237,177,259,1 171,406,392,434,2 40,198,445,464,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0730-back.jpg 301,692,558,732,0 49,369,675,774,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0635-front.jpg 293,252,447,313,1 447,680,994,727,2 104,159,1105,811,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0873-back.jpg 581,789,1148,865,0 11,37,1422,959,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0472-back.jpg 438,555,777,600,0 102,130,919,649,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0549-front.jpg 73,244,126,269,1 126,395,318,429,2 6,209,359,451,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0338-back.jpg 374,593,705,639,0 56,182,857,688,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0137-back.jpg 127,167,266,186,0 1,1,325,202,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0140-back.jpg 304,355,463,384,0 112,114,603,416,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0020-front.jpg 258,162,299,177,1 301,280,461,299,2 201,131,493,323,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0182-back.jpg 189,455,380,490,0 19,226,458,515,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0670-front.jpg 361,197,474,251,1 460,531,902,607,2 160,124,995,665,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0463-front.jpg 181,130,260,163,1 263,348,544,384,2 70,96,596,438,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0748-front.jpg 187,417,281,455,1 277,670,614,714,2 67,355,678,755,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0116-back.jpg 289,315,480,345,0 97,106,558,375,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0670-back.jpg 398,631,769,691,0 28,148,955,746,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0589-front.jpg 203,145,333,191,1 322,510,787,570,2 31,60,884,615,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0850-front.jpg 217,62,268,84,1 274,210,461,233,2 145,35,504,265,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0754-back.jpg 193,383,342,409,0 45,206,405,435,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0712-front.jpg 133,69,253,114,1 253,390,663,431,2 3,6,748,479,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0362-front.jpg 214,279,323,322,1 318,630,770,677,2 30,229,874,743,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0375-front.jpg 375,379,547,400,0 195,149,620,424,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0545-back.jpg 183,353,321,374,0 41,176,388,398,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0824-front.jpg 142,204,232,241,1 230,462,565,501,2 26,153,638,546,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0803-back.jpg 423,755,658,793,0 205,468,759,831,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0707-front.jpg 239,651,374,708,1 381,1051,933,1151,2 82,546,1052,1204,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0674-front.jpg 201,146,371,223,1 373,637,998,701,2 1,37,1136,781,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0166-front.jpg 78,267,130,288,1 127,419,315,439,2 4,240,350,465,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0150-back.jpg 430,574,773,624,0 102,147,916,670,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0602-back.jpg 212,353,294,365,0 162,87,196,102,1 195,180,311,195,2 116,69,335,214,3 123,241,338,381,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0645-back.jpg 240,382,548,432,0 1,21,639,478,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0894-back.jpg 259,434,499,464,0 33,126,616,500,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0529-back.jpg 236,305,428,333,0 37,55,519,359,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0738-front.jpg 128,215,250,268,1 244,528,645,585,2 7,156,733,630,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0677-front.jpg 236,175,376,239,1 401,590,924,672,2 19,81,990,744,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0041-back.jpg 190,396,321,420,0 64,231,377,440,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0882-front.jpg 98,132,209,180,1 219,461,625,510,2 1,67,639,578,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0507-front.jpg 171,76,315,128,1 315,471,837,527,2 7,1,958,588,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0586-front.jpg 529,142,715,219,1 747,652,1419,750,2 268,22,1565,874,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0357-back.jpg 143,391,310,421,0 1,183,388,442,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0854-back.jpg 675,837,1189,907,0 152,172,1408,987,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0780-back.jpg 372,540,760,595,0 16,71,926,653,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0196-back.jpg 642,824,1338,927,0 2,3,1547,1014,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0010-back.jpg 265,368,510,403,0 11,56,610,439,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0628-back.jpg 273,374,512,409,0 31,61,616,442,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0695-front.jpg 221,470,371,537,1 370,899,939,973,2 4,386,1055,1033,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0349-front.jpg 49,25,85,39,1 84,126,213,140,2 6,5,242,157,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0232-back.jpg 276,681,391,699,0 237,122,279,141,1 274,236,423,257,2 185,101,455,275,3 168,541,443,713,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0426-back.jpg 196,497,382,526,0 23,262,465,555,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0815-front.jpg 149,256,272,315,1 266,629,754,704,2 1,182,863,769,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0137-front.jpg 54,18,98,38,1 102,160,283,179,2 1,1,323,196,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0891-front.jpg 353,154,601,252,1 613,851,1488,966,2 25,9,1689,1073,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0271-back.jpg 244,239,404,263,0 91,34,476,279,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0702-front.jpg 311,343,436,392,1 503,896,1238,991,2 68,197,1399,1069,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0151-front.jpg 244,170,378,223,1 384,565,931,633,2 32,110,1049,713,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0018-front.jpg 168,388,280,432,1 272,731,712,783,2 1,318,750,835,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0259-back.jpg 263,836,587,893,0 1,451,719,930,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0522-front.jpg 159,135,236,164,1 236,351,512,383,2 69,89,582,420,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0215-back.jpg 445,688,948,755,0 2,65,1151,820,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0834-back.jpg 186,440,373,469,0 14,217,452,496,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0762-back.jpg 646,845,1234,954,0 5,83,1438,1080,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0044-front.jpg 184,73,243,97,1 241,257,470,285,2 91,34,520,313,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0463-back.jpg 269,312,466,342,0 76,74,558,378,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0350-back.jpg 247,375,486,408,0 23,82,584,442,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0713-back.jpg 244,279,438,306,0 49,25,525,335,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0101-back.jpg 266,318,525,352,0 13,12,630,383,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0475-front.jpg 225,861,382,932,1 353,1268,908,1353,2 37,789,997,1397,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0598-front.jpg 539,164,720,247,1 709,675,1357,752,2 306,65,1516,814,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0123-back.jpg 287,349,449,378,0 116,131,525,400,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0484-front.jpg 113,179,186,205,1 169,344,395,379,2 39,151,431,401,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0679-back.jpg 266,384,477,415,0 65,139,572,454,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0030-front.jpg 116,245,174,267,1 174,424,403,452,2 28,209,452,483,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0212-back.jpg 400,838,733,893,0 96,525,891,949,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0855-front.jpg 102,244,173,272,1 167,449,437,479,2 8,206,479,515,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0090-front.jpg 189,305,311,354,1 308,676,803,733,2 13,241,864,793,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0397-front.jpg 87,150,137,175,1 132,290,315,313,2 27,122,354,332,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0811-back.jpg 431,656,895,725,0 8,102,1080,795,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0529-front.jpg 132,58,205,89,1 218,282,511,318,2 21,4,575,354,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0722-back.jpg 459,574,827,624,0 58,96,991,683,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0622-back.jpg 379,659,731,710,0 20,212,864,772,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0567-front.jpg 348,213,527,291,1 504,728,1164,794,2 34,108,1283,896,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0851-back.jpg 268,349,515,382,0 20,29,630,420,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0718-front.jpg 149,207,372,240,1 264,502,650,546,2 16,138,736,608,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0542-front.jpg 116,174,177,203,1 168,341,390,372,2 26,147,444,403,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0664-back.jpg 341,498,701,552,0 1,107,868,604,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0448-front.jpg 110,115,204,148,1 210,383,570,418,2 2,55,639,466,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0148-back.jpg 894,757,1375,836,0 406,176,1559,912,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0064-back.jpg 207,425,334,452,0 39,204,456,474,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0297-front.jpg 115,231,165,254,1 168,380,361,404,2 52,201,402,428,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0608-front.jpg 224,174,397,248,1 391,640,965,702,2 33,86,1108,777,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0615-front.jpg 187,105,260,133,1 263,298,514,328,2 92,59,556,360,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0768-back.jpg 152,388,311,413,0 1,196,360,440,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0773-front.jpg 332,170,558,268,1 573,853,1414,950,2 15,26,1630,1051,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0382-back.jpg 242,293,445,323,0 46,46,520,346,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0476-front.jpg 259,159,428,229,1 441,598,999,675,2 65,73,1101,750,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0832-front.jpg 161,69,258,110,1 258,357,625,392,2 30,18,701,442,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0873-front.jpg 270,188,450,269,1 485,793,1245,877,2 2,69,1425,978,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0007-front.jpg 129,82,213,116,1 220,353,556,387,2 10,37,628,434,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0124-front.jpg 456,308,564,364,1 578,678,1062,735,2 280,250,1168,802,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0503-front.jpg 305,184,456,238,1 460,596,997,666,2 111,95,1100,727,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0285-front.jpg 531,181,668,249,1 682,660,1307,728,2 310,67,1467,793,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0016-back.jpg 290,276,512,308,0 71,12,600,344,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0102-back.jpg 329,415,666,463,0 12,4,810,504,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0214-back.jpg 288,268,519,293,0 32,1,615,359,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0698-front.jpg 223,288,440,314,0 8,8,540,351,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0342-back.jpg 422,509,787,562,0 81,66,938,615,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0322-back.jpg 264,325,459,361,0 1,2,639,386,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0808-front.jpg 126,102,201,134,1 215,358,542,399,2 6,52,621,448,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0228-back.jpg 455,625,881,692,0 54,91,1083,760,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0596-front.jpg 163,46,246,82,1 245,283,537,312,2 56,6,596,355,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0331-back.jpg 447,556,801,608,0 100,113,951,662,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0135-front.jpg 118,38,198,76,1 208,315,557,350,2 1,1,628,392,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0750-back.jpg 364,742,734,804,0 2,286,862,871,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0473-front.jpg 207,500,395,572,1 387,989,1025,1066,2 3,411,1080,1144,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0431-front.jpg 218,136,288,160,1 294,325,553,354,2 120,100,603,397,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0926-back.jpg 296,398,608,438,0 2,1,737,473,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0325-back.jpg 505,654,979,726,0 19,76,1137,807,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0086-front.jpg 220,183,288,209,1 292,384,559,422,2 131,129,616,440,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0041-front.jpg 72,314,118,331,1 124,428,284,453,2 23,273,320,476,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0285-back.jpg 776,686,1276,781,0 316,72,1495,838,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0363-back.jpg 259,375,521,412,0 1,64,634,453,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0299-front.jpg 406,330,580,400,1 578,851,1252,930,2 115,237,1367,1029,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0088-front.jpg 519,136,730,218,1 738,826,1662,932,2 199,26,1842,1045,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0169-back.jpg 462,668,926,735,0 2,76,1121,795,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0145-front.jpg 140,128,225,162,1 221,364,515,398,2 23,88,567,447,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0085-front.jpg 168,88,290,136,1 301,465,786,513,2 10,8,892,560,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0290-front.jpg 415,322,488,357,1 501,569,822,606,2 303,269,898,641,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0436-front.jpg 365,305,464,340,1 459,592,820,631,2 225,250,886,674,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0803-front.jpg 281,458,382,502,1 370,721,693,765,2 159,402,774,807,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0573-back.jpg 173,428,381,460,0 1,165,464,493,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0060-front.jpg 96,61,178,96,1 194,353,569,398,2 1,11,635,448,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0257-front.jpg 183,502,280,548,1 270,817,655,879,2 40,445,767,928,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0070-back.jpg 161,321,305,342,0 24,125,356,361,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0526-back.jpg 381,476,747,537,0 1,2,903,584,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0456-front.jpg 144,84,234,120,1 232,356,570,392,2 17,36,631,429,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0624-back.jpg 441,929,906,992,0 1,365,1080,1062,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0848-back.jpg 526,691,825,745,0 95,154,1099,807,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0559-front.jpg 127,50,210,80,1 216,312,561,345,2 1,1,638,389,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0056-back.jpg 272,373,501,408,0 51,90,604,440,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0838-front.jpg 128,76,222,114,1 230,340,565,383,2 1,23,637,448,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0297-back.jpg 198,412,359,441,0 42,218,417,464,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0284-front.jpg 66,30,110,49,1 112,161,277,179,2 10,3,301,198,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0165-front.jpg 176,80,244,108,1 241,285,502,313,2 77,41,551,336,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0870-front.jpg 92,57,181,97,1 200,357,568,396,2 1,10,639,454,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0593-front.jpg 479,180,585,237,1 582,528,1010,595,2 304,112,1106,637,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0139-back.jpg 183,441,388,472,0 10,201,470,492,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0181-back.jpg 708,861,1351,959,0 103,100,1618,1043,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0204-back.jpg 193,401,382,427,0 21,174,456,447,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0847-back.jpg 500,630,974,696,0 15,51,1136,788,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0724-front.jpg 322,206,472,264,1 483,649,1052,706,2 76,116,1152,813,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0063-back.jpg 247,384,514,423,0 2,50,629,456,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0851-front.jpg 140,103,209,135,1 217,355,534,388,2 17,49,601,431,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0054-back.jpg 126,432,263,462,0 1,277,322,484,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0273-back.jpg 436,549,897,613,0 2,4,1072,676,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0144-back.jpg 736,742,1200,811,0 310,200,1372,858,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0171-back.jpg 268,373,521,411,0 29,70,628,440,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0890-front.jpg 100,283,146,302,1 141,421,332,446,2 24,257,360,482,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0364-back.jpg 884,874,1478,956,0 278,112,1717,1035,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0683-front.jpg 294,96,450,153,1 449,543,1000,601,2 97,1,1130,669,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0317-back.jpg 274,338,520,369,0 11,15,625,415,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0011-back.jpg 196,500,345,523,0 61,317,416,545,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0834-front.jpg 103,254,171,283,1 165,444,409,481,2 8,219,466,513,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0359-front.jpg 152,343,257,385,1 264,645,660,691,2 15,290,732,752,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0222-back.jpg 279,770,595,814,0 5,379,738,844,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0672-back.jpg 980,789,1382,858,0 448,178,1764,945,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0712-back.jpg 272,354,551,390,0 3,4,670,429,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0294-back.jpg 305,369,551,405,0 55,70,640,439,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0213-back.jpg 245,259,432,289,0 70,35,521,313,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0774-front.jpg 341,210,467,261,1 486,573,977,639,2 158,125,1101,738,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0644-back.jpg 413,589,798,647,0 34,108,953,697,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0425-front.jpg 135,280,223,315,1 218,557,586,610,2 8,229,673,660,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0917-back.jpg 259,256,429,287,0 80,40,510,318,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0307-front.jpg 233,477,300,507,1 306,701,594,734,2 124,440,655,775,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0821-back.jpg 450,640,856,697,0 6,90,1034,760,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0673-back.jpg 249,329,484,363,0 23,32,593,388,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0860-back.jpg 304,377,495,406,0 104,133,577,444,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0865-front.jpg 352,336,521,399,1 531,845,1176,918,2 96,222,1318,1000,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0434-front.jpg 544,157,789,272,1 783,841,1651,935,2 261,16,1854,1038,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0488-front.jpg 44,19,82,34,1 85,129,229,146,2 1,1,261,161,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0146-front.jpg 134,88,222,128,1 228,345,541,382,2 19,38,611,417,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0499-front.jpg 480,179,682,268,1 672,721,1375,799,2 214,75,1463,891,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0647-front.jpg 119,279,220,335,1 232,605,668,652,2 1,237,744,733,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0565-back.jpg 199,365,351,386,0 45,169,421,409,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0360-back.jpg 686,788,1328,873,0 63,9,1584,927,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0599-front.jpg 206,233,271,260,1 264,407,493,435,2 121,199,543,465,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0637-front.jpg 96,223,156,255,1 166,410,411,445,2 13,184,460,470,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0383-back.jpg 208,484,382,513,0 49,273,458,544,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0099-back.jpg 251,366,478,397,0 36,83,580,425,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0430-front.jpg 325,252,499,340,1 538,840,1254,913,2 81,145,1393,1003,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0368-back.jpg 431,561,879,613,0 2,1,1069,664,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0764-back.jpg 361,871,641,926,0 1,447,864,1001,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0594-front.jpg 375,210,501,263,1 498,541,891,595,2
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0591-back.jpg 495,645,916,713,0 51,101,1102,794,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0517-front.jpg 103,287,157,314,1 156,453,369,480,2 17,255,415,508,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0377-back.jpg 485,604,970,663,0 1,1,1150,749,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0466-back.jpg 465,678,950,745,0 12,73,1146,797,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0398-front.jpg 113,283,189,310,1 187,472,428,502,2 27,247,480,527,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0381-front.jpg 124,45,218,83,1 220,321,576,360,2 1,1,639,396,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0258-back.jpg 545,685,964,751,0 123,149,1168,798,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0193-back.jpg 356,514,716,568,0 45,100,871,609,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0747-front.jpg 276,156,404,216,1 384,544,910,626,2 69,99,1008,700,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0817-back.jpg 384,596,618,635,0 41,167,833,693,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0922-front.jpg 138,485,235,524,1 229,752,589,801,2 1,428,648,855,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0638-front.jpg 142,587,292,662,1 278,993,778,1070,2 1,511,892,1114,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0733-back.jpg 257,188,377,243,1 380,561,827,614,2 98,125,929,676,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0719-front.jpg 136,54,225,86,1 228,313,576,345,2 3,2,636,387,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0746-back.jpg 298,355,519,388,0 75,75,607,416,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0176-front.jpg 125,71,216,107,1 219,332,553,367,2 3,28,616,406,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0758-front.jpg 308,213,508,295,1 514,790,1241,865,2 57,95,1403,978,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0323-front.jpg 130,141,216,175,1 209,385,514,418,2 17,96,577,459,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0057-front.jpg 318,316,365,338,1 370,466,561,483,2 388,689,534,705,0 241,286,605,508,3 241,506,610,719,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0738-back.jpg 278,614,563,652,0 11,248,694,691,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0354-front.jpg 127,34,223,73,1 214,323,573,363,2 1,1,639,399,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0350-front.jpg 174,109,246,139,1 260,351,580,385,2 56,59,637,424,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0270-back.jpg 139,172,275,193,0 13,7,335,211,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0132-front.jpg 341,186,502,258,1 527,764,1272,837,2 60,101,1425,943,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0528-front.jpg 216,183,339,235,1 339,523,754,576,2 56,116,862,635,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0055-front.jpg 218,225,336,271,1 326,617,813,668,2 12,145,922,741,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0007-back.jpg 276,345,532,380,0 11,23,628,420,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0659-front.jpg 143,378,247,424,1 258,703,682,747,2 5,304,754,807,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0853-front.jpg 141,121,227,153,1 229,374,544,413,2 8,69,614,466,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0708-front.jpg 177,124,345,183,1 340,631,981,719,2 4,27,1078,775,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0752-front.jpg 208,159,372,226,1 358,592,895,653,2 10,70,1009,715,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0413-front.jpg 71,240,198,260,1 124,385,320,410,2 6,211,355,433,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0111-back.jpg 268,403,513,437,0 26,88,610,464,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0694-back.jpg 706,895,1407,1005,0 14,1,1713,1079,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0725-front.jpg 151,76,221,104,1 221,282,484,308,2 64,46,546,350,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0629-back.jpg 432,569,793,625,0 73,150,927,690,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0270-front.jpg 70,37,113,56,1 121,175,296,194,2 9,11,330,217,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0038-front.jpg 115,45,204,78,1 205,317,561,353,2 2,1,637,394,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0617-front.jpg 129,92,235,131,1 229,367,575,398,2 4,39,640,447,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0784-back.jpg 529,638,939,698,0 122,120,1112,758,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0152-back.jpg 191,437,350,463,0 38,249,412,486,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0903-back.jpg 428,945,854,1011,0 24,399,1071,1087,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0478-front.jpg 69,231,120,255,1 116,381,317,408,2 2,198,350,424,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0612-front.jpg 120,37,212,84,1 226,320,570,355,2 1,1,640,385,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0015-front.jpg 98,244,150,267,1 158,435,411,467,2 5,210,465,504,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0570-front.jpg 128,77,227,114,1 223,340,571,384,2 7,21,640,431,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0781-front.jpg 536,368,679,420,1 663,747,1203,809,2 298,292,1307,895,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0501-front.jpg 263,339,526,371,0 2,1,640,415,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0665-back.jpg 342,658,653,706,0 35,254,811,753,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0547-back.jpg 169,213,340,237,0 4,3,412,256,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0353-back.jpg 706,906,1466,1011,0 3,1,1739,1079,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0314-back.jpg 132,436,272,462,0 5,260,340,483,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0923-front.jpg 179,446,258,480,1 253,678,545,713,2 52,395,601,757,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0650-front.jpg 141,110,222,148,1 225,349,523,388,2 33,64,591,417,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0909-back.jpg 887,757,1358,820,0 428,139,1593,886,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0329-front.jpg 165,142,235,175,1 235,354,493,385,2 61,103,545,416,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0633-back.jpg 278,366,492,397,0 62,94,586,430,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0672-front.jpg 633,296,844,379,1 839,823,1581,889,2 359,193,1750,991,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0786-back.jpg 284,372,502,401,0 57,88,598,438,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0493-front.jpg 111,410,187,445,1 198,653,511,687,2 8,363,570,727,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0551-back.jpg 467,584,810,635,0 148,177,944,694,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0614-front.jpg 276,255,382,297,1 379,568,768,618,2 129,200,852,658,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0460-front.jpg 193,108,340,168,1 344,552,929,629,2 4,47,1005,701,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0356-back.jpg 271,200,398,220,0 160,45,449,236,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0760-front.jpg 182,86,280,131,1 287,364,640,398,2 52,30,713,444,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0390-back.jpg 238,288,440,317,0 44,38,519,340,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0811-front.jpg 267,160,405,209,1 477,572,990,635,2 36,84,1029,710,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0923-back.jpg 311,645,531,677,0 99,382,620,725,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0025-front.jpg 262,185,404,236,1 422,629,973,704,2 45,95,1080,772,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0123-front.jpg 186,119,268,153,1 269,350,551,385,2 72,73,605,425,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0357-front.jpg 85,231,138,253,1 136,375,318,397,2 27,198,362,421,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0777-front.jpg 148,86,210,112,1 208,267,450,297,2 59,52,510,333,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0559-back.jpg 266,291,487,325,0 63,25,580,353,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0765-back.jpg 266,346,533,383,0 1,2,640,415,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0292-back.jpg 281,707,587,755,0 8,354,692,791,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0743-back.jpg 223,291,435,321,0 3,14,521,352,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0679-front.jpg 150,142,211,173,1 211,347,486,380,2 38,104,545,417,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0631-front.jpg 759,425,867,473,1 867,715,1246,771,2 611,364,1330,821,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0407-front.jpg 220,168,360,229,1 354,556,837,613,2 48,113,927,682,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0517-back.jpg 251,544,440,576,0 72,321,528,607,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0810-back.jpg 425,571,834,630,0 14,47,1002,695,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0457-front.jpg 167,527,285,587,1 292,874,731,935,2 20,468,844,963,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0262-front.jpg 95,30,169,60,1 175,261,461,291,2 1,1,503,300,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0753-front.jpg 126,99,241,149,1 249,411,650,468,2 1,39,746,527,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0459-front.jpg 276,145,457,211,1 437,616,1045,690,2 63,63,1157,752,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0170-front.jpg 240,937,375,1007,1 391,1381,954,1446,2 41,856,1068,1515,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0819-back.jpg 314,570,697,622,0 1,69,877,682,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0893-front.jpg 153,99,230,130,1 225,340,537,375,2 20,52,608,412,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0646-back.jpg 298,581,603,627,0 4,196,734,669,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0911-back.jpg 725,881,1369,973,0 94,87,1627,1070,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0561-back.jpg 828,737,1483,842,0 201,52,1770,931,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0884-front.jpg 250,163,392,217,1 454,597,951,656,2 1,64,988,727,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0845-back.jpg 268,357,435,384,0 101,146,513,415,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0901-front.jpg 260,73,345,114,1 356,365,708,405,2 114,7,790,450,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0740-back.jpg 370,842,706,888,0 25,416,845,948,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0062-front.jpg 125,528,206,561,1 208,773,533,813,2 7,476,598,850,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0145-back.jpg 274,350,524,390,0 24,65,623,444,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0402-front.jpg 178,201,240,225,1 235,357,441,387,2 118,163,489,405,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0611-back.jpg 691,639,1146,707,0 227,50,1342,771,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0580-back.jpg 246,338,459,368,0 28,70,554,404,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0032-front.jpg 566,261,919,391,1 895,1368,2322,1525,2 45,21,2634,1694,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0057-back.jpg 385,685,539,707,0 315,316,366,338,1 366,459,566,485,2 240,286,605,506,3 240,507,604,723,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0186-back.jpg 257,253,438,284,0 78,28,513,306,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0065-back.jpg 402,567,721,615,0 82,178,844,669,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0391-front.jpg 504,280,686,355,1 675,801,1345,881,2 255,195,1490,949,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0298-back.jpg 308,813,609,863,0 40,434,729,890,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0049-back.jpg 417,559,852,619,0 15,24,1040,682,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0898-back.jpg 332,833,528,875,0 83,501,712,909,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0802-front.jpg 353,260,562,349,1 554,836,1270,925,2 102,156,1430,1031,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0654-front.jpg 133,228,259,283,1 277,651,702,702,2 1,139,1015,750,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0251-back.jpg 204,290,420,319,0 1,17,512,345,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0005-back.jpg 325,654,612,703,0 12,264,745,759,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0067-back.jpg 323,256,498,285,0 147,33,586,318,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0549-back.jpg 138,429,292,454,0 1,243,354,477,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0489-back.jpg 242,290,427,316,0 67,59,502,341,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0253-front.jpg 211,59,297,101,1 312,347,672,384,2 79,12,739,431,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0400-back.jpg 243,286,459,320,0 27,13,557,347,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0104-front.jpg 212,98,366,160,1 372,586,994,661,2 1,4,1128,720,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0500-back.jpg 184,475,376,505,0 10,245,459,526,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0788-front.jpg 155,358,281,410,1 270,688,696,742,2 18,301,796,803,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0514-back.jpg 262,290,476,322,0 57,17,578,345,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0530-front.jpg 272,114,460,200,1 496,744,1315,840,2 8,1,1472,953,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0540-back.jpg 369,966,557,998,0 196,736,636,1034,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0770-back.jpg 341,746,637,789,0 49,392,744,842,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0326-back.jpg 291,260,421,280,0 157,92,476,300,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0814-back.jpg 321,396,667,446,0 3,1,800,485,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0632-front.jpg 260,133,379,192,1 381,486,827,555,2 105,67,939,605,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0484-back.jpg 204,408,389,434,0 27,180,466,460,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0106-back.jpg 264,364,512,399,0 17,58,606,433,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0640-front.jpg 371,295,489,368,1 495,701,981,767,2 185,203,1097,826,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0732-back.jpg 439,545,790,597,0 91,110,938,653,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0561-front.jpg 731,371,888,440,1 843,815,1580,933,2 414,292,1762,960,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0399-front.jpg 189,73,262,103,1 258,282,540,314,2 97,32,600,343,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0781-back.jpg 255,346,523,386,0 1,1,640,415,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0035-front.jpg 514,161,684,232,1 680,680,1368,761,2 247,61,1510,869,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0828-front.jpg 354,226,459,274,1 474,565,896,614,2 209,166,989,671,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0022-front.jpg 116,67,184,93,1 192,282,471,314,2 17,18,527,348,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0374-front.jpg 454,1059,824,1105,0 92,577,991,1150,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0321-back.jpg 236,282,449,314,0 27,16,539,341,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0819-front.jpg 186,164,286,214,1 303,508,726,564,2 22,88,818,615,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0187-back.jpg 322,717,599,771,0 37,351,751,817,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0438-front.jpg 287,212,414,271,1 403,569,852,628,2 109,164,936,678,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0794-back.jpg 268,269,451,304,0 38,1,623,343,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0034-back.jpg 138,334,261,355,0 12,179,317,370,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0183-back.jpg 237,277,443,310,0 36,24,528,336,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0263-back.jpg 275,323,457,353,0 98,104,528,375,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0053-front.jpg 281,105,452,166,1 453,631,1139,709,2 38,1,1275,791,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0317-front.jpg 143,71,239,108,1 237,332,572,367,2 22,21,625,412,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0685-front.jpg 187,124,312,173,1 318,464,739,525,2 21,61,836,584,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0120-front.jpg 127,488,251,547,1 271,915,821,979,2 1,400,861,1044,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0600-front.jpg 120,54,204,95,1 218,334,578,379,2 1,1,640,414,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0779-back.jpg 281,830,602,891,0 1,414,766,945,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0345-front.jpg 134,83,226,120,1 224,352,554,387,2 11,40,623,436,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0718-back.jpg 344,509,599,548,0 36,136,748,597,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0293-front.jpg 88,266,131,287,1 130,399,303,421,2 27,245,344,441,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0840-front.jpg 97,273,157,301,1 160,459,402,488,2 8,232,453,522,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0485-front.jpg 283,234,413,296,1 437,666,955,727,2 103,160,1054,807,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0343-front.jpg 215,156,384,221,1 381,667,1010,725,2 1,59,1135,798,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0240-front.jpg 239,471,352,523,1 370,840,854,895,2 70,406,950,964,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0476-back.jpg 473,635,883,702,0 58,132,1059,777,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0666-back.jpg 436,573,758,619,0 100,223,895,672,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0021-front.jpg 278,171,425,228,1 436,592,978,643,2 88,105,1057,698,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0870-back.jpg 245,379,538,423,0 1,3,640,471,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0589-back.jpg 381,562,746,617,0 24,105,898,668,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0233-back.jpg 361,463,733,510,0 3,6,873,557,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0301-front.jpg 332,394,472,459,1 506,867,1112,937,2 109,282,1220,1009,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0469-front.jpg 105,45,168,75,1 177,237,431,265,2 21,10,475,294,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0166-back.jpg 153,430,304,460,0 4,237,359,479,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0823-back.jpg 182,391,362,420,0 13,188,446,451,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0667-back.jpg 571,771,1026,850,0 1,4,1450,902,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0531-front.jpg 90,248,152,276,1 148,432,398,467,2 1,211,457,503,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0378-front.jpg 180,155,249,183,1 273,382,565,415,2 63,99,622,457,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0404-back.jpg 424,548,830,607,0 40,55,993,659,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0321-front.jpg 157,82,227,111,1 230,276,476,305,2 70,41,522,334,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0236-front.jpg 135,106,210,143,1 225,370,547,402,2 20,67,609,442,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0452-front.jpg 233,138,295,163,1 289,299,491,323,2 163,113,538,349,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0540-front.jpg 205,744,289,780,1 276,944,544,985,2 120,715,589,1015,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0523-front.jpg 126,198,212,243,1 231,472,575,516,2 4,140,653,548,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0385-back.jpg 417,602,852,657,0 10,61,1005,717,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0769-back.jpg 198,262,404,289,0 1,1,480,318,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0081-front.jpg 388,164,502,207,1 500,498,944,555,2 212,109,1036,621,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0723-front.jpg 133,131,231,178,1 231,421,596,470,2 10,77,679,518,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0783-back.jpg 132,406,270,430,0 11,243,331,455,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0812-front.jpg 197,95,351,159,1 360,532,905,601,2 195,93,349,157,1 6,7,1041,666,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0071-front.jpg 76,27,125,47,1 128,179,311,199,2 3,2,351,219,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0329-back.jpg 300,360,524,392,0 69,62,617,426,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0461-back.jpg 266,369,520,404,0 13,53,631,444,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0412-back.jpg 576,797,985,877,0 38,88,1368,938,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0525-back.jpg 441,527,688,569,0 200,230,784,609,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0021-back.jpg 443,588,858,647,0 66,86,1022,674,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0209-back.jpg 690,692,1156,771,0 237,118,1336,835,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0694-front.jpg 318,131,570,230,1 579,855,1499,959,2 7,6,1665,1064,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0330-front.jpg 488,225,707,311,1 705,851,1465,932,2 200,103,1624,1039,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0264-back.jpg 197,428,348,459,0 63,243,421,476,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0026-back.jpg 188,453,377,487,0 13,222,456,519,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0215-front.jpg 238,158,377,223,1 403,655,1047,733,2 9,68,1150,800,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0309-front.jpg 180,391,276,432,1 266,668,636,712,2 47,347,713,761,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0880-front.jpg 243,189,392,249,1 391,640,939,704,2 34,88,1064,773,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0125-back.jpg 568,484,819,533,0 317,190,931,596,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0181-front.jpg 151,142,218,173,1 235,365,515,397,2 45,94,570,432,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0643-front.jpg 136,420,229,472,1 229,680,554,735,2 22,370,643,772,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0643-back.jpg 319,652,634,707,0 20,247,756,756,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0275-back.jpg 406,577,832,643,0 5,79,995,697,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0282-back.jpg 616,783,1171,878,0 98,117,1377,958,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0796-back.jpg 439,548,867,606,0 17,9,1055,662,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0760-back.jpg 339,360,597,391,0 72,19,727,432,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0516-front.jpg 126,108,223,149,1 223,376,567,418,2 3,53,631,458,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0063-front.jpg 122,78,212,114,1 214,359,559,396,2 1,24,636,433,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0216-front.jpg 468,246,689,333,1 689,888,1506,981,2 131,126,1658,1102,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0627-back.jpg 254,285,447,313,0 86,47,544,337,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0541-front.jpg 176,116,250,146,1 253,330,527,361,2 70,72,574,392,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0333-front.jpg 302,193,479,267,1 507,811,1277,893,2 12,69,1430,990,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0444-front.jpg 66,220,117,246,1 120,359,305,383,2 5,194,344,407,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0467-back.jpg 502,644,997,710,0 6,59,1151,815,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0756-front.jpg 359,301,458,352,1 472,610,872,658,2 202,240,949,711,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0835-back.jpg 278,440,495,475,0 73,170,593,503,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0680-front.jpg 349,251,519,323,1 515,735,1140,807,2 145,155,1274,880,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0139-front.jpg 105,168,175,200,1 178,381,425,413,2 15,128,479,436,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0862-back.jpg 230,508,576,554,0 1,48,640,610,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0611-front.jpg 121,40,211,79,1 228,321,569,353,2 1,1,639,386,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0074-front.jpg 184,124,250,153,1 265,355,560,390,2 82,77,634,423,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0626-front.jpg 226,561,392,627,1 381,972,911,1039,2 31,476,1008,1100,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0054-front.jpg 74,255,113,273,1 110,382,300,407,2 3,230,336,429,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0327-back.jpg 173,448,322,485,0 31,247,427,509,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0158-front.jpg 1082,606,1232,681,1 1182,1060,1749,1181,2 832,507,1921,1266,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0049-front.jpg 223,94,345,150,1 362,537,916,602,2 19,9,1043,672,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0782-back.jpg 274,357,565,399,0
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0772-back.jpg 374,832,695,886,0 48,429,827,934,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0682-back.jpg 302,560,639,614,0
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0764-front.jpg 149,394,275,449,1 268,744,736,804,2 1,328,817,876,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0915-front.jpg 416,323,487,357,1 502,570,823,608,2 300,271,898,650,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0204-front.jpg 103,209,158,239,1 169,397,405,424,2 20,173,457,449,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0418-back.jpg 349,545,772,600,0 1,17,911,649,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0797-back.jpg 442,697,866,754,0 54,185,1046,808,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0002-back.jpg 177,224,352,246,0 11,1,428,273,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0878-back.jpg 400,539,781,593,0 1,24,971,648,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0078-back.jpg 411,551,779,607,0 32,87,918,660,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0710-front.jpg 226,177,364,230,1 357,579,855,630,2 57,104,968,701,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0047-back.jpg 909,856,1522,955,0 270,68,1765,1061,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0887-front.jpg 109,50,185,81,1 186,277,476,312,2 5,1,524,347,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0641-front.jpg 156,379,232,416,1 210,623,528,690,2 22,328,624,724,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0143-back.jpg 277,278,454,307,0 118,76,532,328,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0372-front.jpg 178,351,290,398,1 292,673,691,720,2 40,286,788,767,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0212-front.jpg 270,374,376,413,1 359,619,811,681,2 101,313,905,745,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0577-front.jpg 144,41,223,70,1 238,242,504,274,2 50,1,561,313,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0059-front.jpg 149,93,230,125,1 235,338,553,382,2 25,47,619,430,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0065-front.jpg 223,216,340,260,1 342,572,787,619,2 56,152,873,681,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0755-back.jpg 396,563,763,615,0 34,109,928,667,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0548-front.jpg 71,218,140,251,1 149,415,402,450,2 1,175,450,484,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0914-front.jpg 78,139,193,181,1 188,489,640,534,2 1,69,640,593,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0892-back.jpg 422,500,802,556,0 42,23,985,614,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0849-front.jpg 118,113,210,152,1 225,372,553,415,2 1,47,627,469,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0813-back.jpg 301,559,598,603,0 5,183,735,641,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0465-back.jpg 208,469,395,498,0 23,227,473,520,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0689-front.jpg 187,150,305,202,1 321,536,804,588,2 12,67,898,642,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0907-front.jpg 698,212,929,319,1 932,899,1805,1003,2 359,81,2004,1127,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0519-front.jpg 293,215,421,267,1 413,584,893,641,2 101,144,991,701,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0839-front.jpg 234,195,356,248,1 370,585,854,638,2 63,118,959,700,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0909-front.jpg 693,262,856,333,1 863,734,1464,805,2 479,165,1604,897,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0217-back.jpg 257,342,531,382,0 1,2,639,412,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0608-back.jpg 458,670,917,734,0 10,78,1139,806,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0741-back.jpg 337,626,682,671,0 15,195,845,735,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0408-back.jpg 188,488,368,515,0 12,263,449,538,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0526-front.jpg 205,91,322,144,1 346,504,847,570,2 8,12,955,622,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0727-front.jpg 212,170,336,227,1 348,548,842,597,2 55,98,938,669,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0688-front.jpg 300,173,427,223,1 425,527,880,585,2 141,112,990,641,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0770-front.jpg 156,392,252,436,1 265,689,664,739,2 15,333,744,807,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0376-back.jpg 506,676,963,738,0 55,93,1150,797,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0486-back.jpg 246,288,422,313,0 69,60,499,340,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0538-back.jpg 449,583,836,643,0 88,110,1005,690,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0668-front.jpg 138,367,270,411,1 258,692,677,748,2 6,305,770,799,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0776-back.jpg 260,296,473,331,0 54,29,571,358,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0642-back.jpg 274,350,523,398,0 13,44,628,453,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0691-front.jpg 174,83,296,138,1 314,471,811,531,2 5,3,896,567,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0027-back.jpg 134,406,290,433,0 1,221,353,456,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0185-front.jpg 95,267,151,292,1 166,444,389,469,2 15,237,440,508,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0658-front.jpg 82,256,156,285,1 152,446,395,480,2 1,217,445,503,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0020-back.jpg 278,270,399,290,0 158,120,457,312,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0816-front.jpg 173,71,307,129,1 310,480,801,538,2 1,2,896,567,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0625-front.jpg 49,265,97,287,1 92,390,258,418,2 1,245,286,436,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0633-front.jpg 190,141,268,173,1 268,341,539,378,2 94,95,593,423,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0126-front.jpg 194,113,225,127,1 223,193,325,205,2 236,399,313,411,0 158,95,346,222,3 158,300,347,422,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0571-back.jpg 462,515,762,556,0 151,150,896,608,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0761-back.jpg 402,541,733,587,0 79,132,884,642,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0830-front.jpg 197,232,316,289,1 348,638,871,687,2 24,117,990,753,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0151-back.jpg 359,778,759,837,0 1,305,864,881,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0665-front.jpg 137,278,257,330,1 263,606,684,663,2 1,179,780,702,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0197-front.jpg 192,77,315,131,1 338,504,879,562,2 3,5,969,617,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0121-back.jpg 460,878,883,941,0 57,372,1042,1005,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0530-back.jpg 570,771,1172,860,0 9,1,1448,944,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0036-front.jpg 142,46,233,79,1 238,321,594,368,2 3,1,637,417,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0130-front.jpg 108,46,209,85,1 205,360,610,402,2 1,1,638,446,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0308-back.jpg 291,336,482,364,0 89,86,553,394,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0210-back.jpg 193,400,385,427,0 4,155,480,448,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0286-back.jpg 122,164,251,184,0 2,3,298,196,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0144-front.jpg 530,191,703,263,1 704,708,1342,774,2 300,104,1471,859,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0046-back.jpg 179,223,333,245,0 22,28,397,266,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0762-front.jpg 357,246,524,326,1 560,820,1262,894,2 96,134,1416,1003,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0741-front.jpg 195,229,304,285,1 319,584,774,634,2 26,167,864,710,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0583-back.jpg 706,866,1334,947,0 13,87,1630,1054,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0558-front.jpg 151,114,238,151,1 234,347,537,384,2 52,59,604,415,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0288-back.jpg 247,267,454,299,0 42,22,534,338,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0100-back.jpg 263,261,467,295,0 56,20,546,334,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0706-back.jpg 244,375,514,416,0 1,27,640,452,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0218-back.jpg 584,530,917,582,0 258,107,1061,628,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0292-front.jpg 152,432,268,479,1 253,760,678,807,2 4,385,766,860,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0913-front.jpg 323,212,455,275,1 469,607,959,668,2 126,144,1046,740,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0278-front.jpg 180,156,227,178,1 219,287,380,311,2 118,133,422,332,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0419-back.jpg 199,421,388,447,0 29,195,457,473,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0578-back.jpg 539,566,843,614,0 233,182,985,656,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0645-front.jpg 108,66,202,112,1 200,366,588,407,2 2,17,640,459,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0027-front.jpg 78,232,129,250,1 130,385,330,412,2 5,198,360,434,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0725-back.jpg 254,296,470,325,0 31,8,572,360,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0003-front.jpg 109,232,166,252,1 172,403,410,434,2 27,191,462,468,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0257-back.jpg 297,763,622,824,0 2,404,745,872,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0388-back.jpg 615,825,1113,898,0 166,231,1309,961,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0491-back.jpg 269,317,512,349,0 29,16,608,381,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0478-back.jpg 140,358,290,379,0 1,172,352,394,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0724-back.jpg 637,570,996,634,0 237,145,1141,714,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0406-back.jpg 939,652,1358,716,0 557,157,1525,770,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0897-front.jpg 224,163,330,210,1 356,561,859,615,2 35,84,969,685,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0319-back.jpg 305,392,506,423,0 121,138,592,448,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0109-front.jpg 216,129,362,191,1 368,569,893,625,2 38,58,999,686,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0728-front.jpg 154,393,265,441,1 263,725,678,764,2 1,327,756,827,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0396-front.jpg 127,526,219,574,1 225,811,607,866,2 11,471,679,876,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0087-back.jpg 402,421,668,461,0 137,84,789,496,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0913-back.jpg 530,602,806,650,0 155,126,1072,713,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0325-front.jpg 260,149,428,215,1 504,658,1114,727,2 1,78,1136,813,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0910-front.jpg 186,122,318,186,1 351,583,921,646,2 414,1289,850,1351,0 2,28,1039,715,3 1,723,1039,1410,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0062-back.jpg 240,825,505,868,0 1,513,610,902,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0405-front.jpg 216,570,402,644,1 418,1008,970,1104,2 5,465,1079,1195,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0126-back.jpg 234,397,316,411,0 194,113,225,127,1 221,190,327,207,2 157,95,346,217,3 157,297,346,420,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0543-back.jpg 439,471,657,519,0 158,164,861,571,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0731-front.jpg 231,165,371,220,1 377,558,872,611,2 50,86,989,689,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0446-back.jpg 734,760,1117,815,0 362,282,1277,871,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0184-front.jpg 113,51,209,89,1 209,332,557,372,2 4,2,639,408,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0739-front.jpg 100,249,170,281,1 164,452,410,488,2 1,205,465,516,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0287-front.jpg 120,223,175,241,1 123,350,208,366,2 122,295,259,311,0 15,178,348,394,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0228-front.jpg 310,189,459,250,1 467,626,1020,689,2 115,115,1141,756,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0480-back.jpg 342,746,639,795,0 57,409,742,847,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0852-front.jpg 84,234,128,250,1 128,355,285,376,2 24,207,326,402,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0004-front.jpg 113,44,202,76,1 205,323,560,362,2 1,1,638,390,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0421-back.jpg 262,359,535,392,0 1,1,639,408,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0758-back.jpg 601,795,1140,862,0 17,85,1399,967,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0069-back.jpg 150,360,290,381,0 23,192,353,401,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0554-front.jpg 165,100,245,136,1 241,339,551,389,2 39,61,614,423,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0490-front.jpg 90,211,159,245,1 165,400,400,430,2 10,175,456,453,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0019-back.jpg 263,286,487,317,0 40,5,586,356,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0658-back.jpg 191,449,383,478,0 9,213,465,510,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0242-front.jpg 289,551,368,581,1 366,779,674,817,2 179,509,739,855,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0895-front.jpg 60,20,97,37,1 107,153,277,171,2 1,1,311,190,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0543-front.jpg 356,165,457,208,1 449,425,812,471,2 224,144,881,532,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0377-front.jpg 194,146,370,214,1 375,654,1003,734,2 1,70,1140,829,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0042-back.jpg 511,589,940,659,0 117,82,1134,715,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0050-front.jpg 165,122,226,151,1 236,343,510,373,2 58,83,569,408,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0450-back.jpg 261,320,481,345,0 37,23,586,371,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0182-front.jpg 107,266,177,294,1 180,466,428,492,2 21,229,480,527,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0073-front.jpg 128,66,221,103,1 221,349,568,388,2 2,3,639,421,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0581-front.jpg 132,77,217,111,1 214,313,519,344,2 18,23,587,383,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0751-back.jpg 300,545,579,585,0 14,191,708,632,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0003-back.jpg 201,454,381,481,0 23,233,467,513,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0613-back.jpg 223,314,551,363,0 1,1,639,418,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0247-back.jpg 308,637,616,687,0 29,289,739,723,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0277-back.jpg 264,374,465,404,0 38,78,611,437,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0101-front.jpg 134,55,206,87,1 224,319,558,353,2 19,13,628,382,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0796-front.jpg 221,93,362,149,1 373,536,914,584,2 7,5,1055,663,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0538-front.jpg 266,213,384,266,1 415,610,911,661,2 84,118,1008,720,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0652-back.jpg 459,590,804,637,0 96,160,953,692,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0637-back.jpg 187,417,347,443,0 38,217,425,467,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0224-front.jpg 70,233,111,253,1 115,366,289,388,2 10,212,325,412,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0324-back.jpg 253,397,514,434,0 1,86,618,466,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0306-back.jpg 484,594,961,648,0 7,4,1147,715,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0295-front.jpg 69,243,118,262,1 119,372,287,391,2 10,210,317,413,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0732-front.jpg 221,235,344,280,1 337,579,779,626,2 48,170,863,690,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0435-front.jpg 128,84,222,115,1 224,368,587,405,2 3,27,639,448,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0276-front.jpg 355,273,490,331,1 499,651,957,710,2 169,211,1043,778,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0114-front.jpg 147,292,195,313,1 195,430,371,450,2 85,266,407,468,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0415-back.jpg 214,344,361,368,0 60,151,432,385,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0735-back.jpg 405,354,508,398,1 509,667,944,718,2 253,278,1042,772,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0550-back.jpg 492,651,943,720,0 56,98,1119,786,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0001-front.jpg 191,638,299,676,1 299,929,744,986,2 22,566,832,1051,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0910-back.jpg 181,115,300,181,1 326,556,886,618,2 407,1242,818,1302,0 1,26,1000,688,3 1,701,1000,1357,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0880-back.jpg 888,884,1514,967,0 217,78,1831,1086,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0348-back.jpg 241,380,478,415,0 10,87,589,444,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0178-back.jpg 500,621,1014,698,0 4,4,1235,767,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0617-back.jpg 274,371,530,407,0 11,47,639,452,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0417-back.jpg 402,887,653,925,0 124,540,813,968,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0723-back.jpg 310,436,598,479,0 33,69,724,513,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0033-front.jpg 93,83,183,117,1 193,361,554,408,2 1,21,639,450,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0892-front.jpg 310,124,460,202,1 497,673,1184,756,2 32,26,1339,859,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0059-back.jpg 284,355,526,391,0 38,54,625,433,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0237-front.jpg 259,569,395,622,1 396,961,905,1019,2 64,498,1006,1102,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0590-front.jpg 110,50,184,85,1 188,279,479,310,2 4,4,541,343,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0105-front.jpg 203,75,256,92,1 254,227,457,253,2 136,40,492,278,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0451-front.jpg 149,483,265,539,1 254,797,657,840,2 13,420,731,884,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0108-back.jpg 218,249,373,282,0 36,7,495,305,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0562-back.jpg 300,281,514,311,0 72,1,618,339,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0395-back.jpg 169,399,392,428,0 1,124,479,449,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0406-front.jpg 563,162,728,235,1 729,658,1361,735,2 339,88,1485,813,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0179-front.jpg 269,206,382,251,1 382,545,795,587,2 99,151,868,643,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0575-back.jpg 269,377,535,416,0 11,46,640,455,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0338-front.jpg 198,266,317,316,1 321,621,771,670,2 39,208,863,740,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0120-back.jpg 336,892,735,949,0 1,418,862,988,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0313-back.jpg 449,575,834,626,0 65,89,991,680,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0558-back.jpg 286,375,536,411,0 49,66,638,450,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0853-back.jpg 272,395,526,432,0 4,58,623,465,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0448-back.jpg 284,398,533,429,0 38,84,634,462,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0043-front.jpg 292,253,454,322,1 498,866,1269,951,2 15,136,1416,1040,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0280-front.jpg 136,102,221,139,1 226,353,538,389,2 19,52,603,429,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0790-back.jpg 264,539,524,576,0 7,213,633,613,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0190-front.jpg 166,111,243,147,1 242,345,532,378,2 49,81,592,431,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0102-front.jpg 216,191,325,239,1 345,574,837,625,2 43,120,933,689,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0481-back.jpg 786,681,1164,733,0 438,214,1328,776,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0346-back.jpg 284,382,528,415,0 57,77,629,441,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0636-back.jpg 337,713,651,766,0 2,243,827,804,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0211-back.jpg 149,334,292,357,0 12,148,360,373,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0697-back.jpg 485,1230,861,1288,0 82,749,1016,1380,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0206-front.jpg 125,105,216,135,1 225,358,557,395,2 10,55,620,435,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0082-back.jpg 293,348,478,378,0 104,107,563,401,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0249-front.jpg 71,285,114,304,1 117,422,301,443,2 1,264,341,470,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0198-front.jpg 142,112,227,146,1 228,369,561,404,2 29,71,631,451,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0241-back.jpg 866,757,1462,859,0 302,57,1715,932,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0474-front.jpg 183,150,269,193,1 268,392,568,428,2 77,115,626,460,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0207-front.jpg 533,203,744,285,1 739,811,1559,905,2 231,87,1737,999,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0442-front.jpg 157,62,229,88,1 229,251,482,281,2 64,20,526,316,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0446-front.jpg 475,337,592,385,1 596,681,1065,743,2 314,272,1162,814,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0697-front.jpg 197,76,346,136,1 353,502,909,565,2 3,1,1002,624,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0370-front.jpg 562,251,764,332,1 756,857,1524,946,2 280,144,1698,1036,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0328-front.jpg 176,129,301,184,1 297,491,726,547,2 2,60,794,598,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0132-back.jpg 587,731,1183,823,0 3,46,1406,916,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0187-front.jpg 180,451,357,480,1 280,765,699,813,2 37,380,779,860,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0293-back.jpg 135,421,272,444,0 19,270,328,461,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0609-front.jpg 150,719,299,783,1 265,1106,809,1208,2 1,655,896,1262,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0428-back.jpg 200,355,379,387,0 7,128,452,418,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0488-back.jpg 106,132,216,146,0 1,1,264,160,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0107-front.jpg 243,218,355,272,1 379,614,857,665,2 62,148,967,722,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0709-back.jpg 204,518,409,549,0 1,263,480,580,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0575-front.jpg 138,96,226,129,1 226,364,589,406,2 3,45,633,449,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0147-back.jpg 287,363,583,403,0 7,5,694,438,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0507-back.jpg 157,196,312,219,0 2,2,383,240,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0179-back.jpg 305,390,618,434,0 4,9,747,477,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0109-back.jpg 410,581,817,637,0 25,74,976,685,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0220-front.jpg 149,105,225,140,1 241,357,548,393,2 39,58,630,423,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0223-front.jpg 165,77,234,108,1 224,277,474,306,2 44,42,524,337,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0042-front.jpg 307,193,417,232,1 417,507,827,554,2 163,126,920,605,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0520-back.jpg 268,393,520,431,0 13,55,634,459,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0828-back.jpg 504,551,859,612,0 164,95,1022,658,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0684-front.jpg 114,328,259,383,1 258,689,715,737,2 2,244,780,804,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0895-back.jpg 121,161,252,179,0 1,1,314,194,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0761-front.jpg 266,237,374,280,1 367,566,777,619,2 107,175,870,677,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0355-front.jpg 403,281,474,315,1 497,490,746,518,2 485,1078,673,1103,0 307,829,750,1132,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0824-back.jpg 273,506,487,537,0 71,232,582,565,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0283-back.jpg 263,345,528,385,0 10,7,638,412,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0886-back.jpg 296,715,604,764,0 10,346,737,807,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0903-front.jpg 262,614,388,661,1 396,984,892,1049,2 91,525,1017,1139,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0555-front.jpg 117,47,215,88,1 213,336,565,376,2 1,1,639,412,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0855-back.jpg 191,472,399,503,0 1,210,479,534,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0370-back.jpg 579,710,1129,778,0 2,1,1359,840,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0866-back.jpg 154,357,285,382,0 14,176,360,400,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0601-front.jpg 135,82,236,118,1 231,342,556,385,2
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0094-back.jpg 274,338,521,375,0 41,35,622,401,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0301-back.jpg 608,807,1148,883,0 82,133,1365,947,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0266-front.jpg 330,205,498,275,1 509,707,1154,780,2 115,106,1282,862,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0279-front.jpg 108,264,176,294,1 177,467,424,497,2 15,232,477,526,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0185-back.jpg 236,370,471,408,0 11,90,558,447,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0908-back.jpg 242,275,475,301,0 1,2,542,335,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0092-front.jpg 185,124,259,152,1 261,344,542,378,2 67,85,590,415,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0717-front.jpg 184,465,341,538,1 326,884,874,954,2 4,390,960,1033,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0837-back.jpg 569,588,983,650,0 158,93,1130,725,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0248-back.jpg 425,696,662,731,0 202,434,751,769,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0833-front.jpg 338,107,595,201,1 613,863,1645,969,2 1,6,1706,1074,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0479-back.jpg 311,642,594,685,0 34,310,691,717,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0418-front.jpg 214,133,350,188,1 404,516,865,572,2 24,64,895,626,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0714-front.jpg 120,46,214,88,1 221,332,575,374,2 1,1,640,400,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0351-front.jpg 122,46,217,83,1 224,330,576,370,2 2,1,640,405,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0688-back.jpg 519,533,789,581,0 157,103,1031,654,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0899-back.jpg 821,725,1330,808,0 297,106,1525,889,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0576-back.jpg 289,330,465,355,0 118,110,534,380,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0282-front.jpg 342,239,502,314,1 536,794,1240,864,2 101,132,1369,948,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0434-back.jpg 893,851,1610,958,0 246,18,1876,1048,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0869-front.jpg 321,211,478,269,1 497,679,1113,740,2 108,87,1228,826,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0360-front.jpg 408,120,601,197,1 574,699,1372,781,2 89,6,1547,883,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0677-back.jpg 427,537,811,613,0 2,40,974,705,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0268-front.jpg 95,229,163,256,1 161,416,396,448,2 17,200,458,480,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0876-front.jpg 65,206,134,234,1 127,408,392,436,2 1,164,453,473,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0503-back.jpg 571,710,959,767,0 198,228,1123,817,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0891-back.jpg 775,873,1390,964,0 110,30,1697,1072,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0361-front.jpg 315,144,421,189,1 429,452,827,498,2 160,86,894,556,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0457-back.jpg 357,959,681,1002,0 19,536,840,1028,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0806-front.jpg 537,180,722,264,1 771,849,1632,958,2 239,41,1826,1064,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0757-front.jpg 98,241,161,272,1 163,426,406,456,2 7,207,450,489,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0245-front.jpg 288,253,401,297,1 399,568,814,611,2 148,182,885,661,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0369-front.jpg 97,337,152,360,1 153,490,355,519,2 27,306,392,547,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0793-front.jpg 146,261,251,302,1 255,576,642,614,2 10,194,747,666,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0773-back.jpg 401,544,818,599,0 1,1,1016,638,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0566-front.jpg 149,153,268,210,1 290,548,779,594,2 1,83,885,667,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0202-back.jpg 332,692,601,738,0 86,361,717,774,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0509-back.jpg 272,412,494,442,0 56,120,601,474,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0906-back.jpg 434,936,854,1009,0 17,400,1071,1092,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0159-back.jpg 293,328,479,359,0 104,100,552,384,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0100-front.jpg 160,43,221,68,1 224,237,476,267,2 64,10,530,300,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0148-front.jpg 631,251,804,320,1 816,761,1459,835,2 398,161,1589,922,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0141-front.jpg 149,415,324,489,1 322,924,916,988,2 1,329,1040,1058,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0095-back.jpg 71,91,152,106,0 1,1,188,116,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0093-front.jpg 236,453,317,483,1 322,671,600,718,2 120,402,662,753,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0850-back.jpg 232,219,382,240,0 77,32,444,268,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0483-front.jpg 142,92,206,120,1 209,303,490,332,2 34,63,541,360,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0564-back.jpg 259,430,490,465,0 30,134,596,494,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0199-back.jpg 285,355,520,393,0 47,68,603,429,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0412-front.jpg 295,175,491,250,1 504,760,1227,841,2 29,65,1387,936,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0655-back.jpg 439,579,787,630,0 85,149,925,689,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0826-front.jpg 385,183,489,227,1 493,470,843,519,2 245,118,915,566,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0302-back.jpg 416,562,823,618,0 38,56,999,670,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0177-back.jpg 301,640,623,692,0 1,256,741,722,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0452-back.jpg 336,281,482,303,0 184,90,543,324,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0518-front.jpg 247,503,367,553,1 324,804,830,870,2 16,452,923,924,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0279-back.jpg 190,501,387,536,0 7,270,460,560,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0197-back.jpg 419,1007,779,1071,0 79,581,931,1120,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0842-back.jpg 413,561,789,623,0 37,84,954,677,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0167-front.jpg 416,311,564,366,1 558,735,1116,800,2 243,223,1227,858,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0302-front.jpg 232,142,369,194,1 378,530,872,581,2 71,65,974,650,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0371-back.jpg 587,842,1120,911,0 53,162,1337,975,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0489-front.jpg 201,78,266,112,1 272,264,519,297,2 114,36,568,332,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0809-back.jpg 321,677,607,723,0 40,324,730,763,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0491-front.jpg 248,69,344,112,1 344,333,673,374,2 125,26,743,411,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0170-back.jpg 462,1407,884,1472,0 68,888,1046,1522,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0073-back.jpg 271,327,516,363,0 24,1,629,388,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0706-front.jpg 178,102,261,133,1 264,328,561,361,2 76,33,634,397,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0918-front.jpg 268,445,401,502,1 414,840,908,903,2 68,366,1007,969,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0084-front.jpg 104,68,202,106,1 209,371,581,410,2 1,16,640,462,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0528-back.jpg 436,507,720,546,0 147,129,843,587,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0085-back.jpg 361,469,732,526,0 5,13,890,561,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0597-front.jpg 259,496,414,570,1 401,921,964,996,2 75,413,1062,1062,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0246-back.jpg 402,602,825,664,0 17,93,980,717,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0459-back.jpg 484,616,798,679,0 63,67,1111,747,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0639-front.jpg 48,21,87,36,1 89,128,231,148,2 1,1,259,161,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0108-front.jpg 145,76,203,100,1 198,249,413,275,2 59,41,460,297,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0788-back.jpg 353,700,685,746,0 11,274,827,808,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0720-back.jpg 703,793,1168,867,0 211,181,1357,933,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0155-back.jpg 302,774,593,823,0 36,428,712,849,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0534-front.jpg 182,117,255,149,1 253,328,508,355,2 88,72,571,389,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0846-back.jpg 523,635,924,698,0 121,145,1085,758,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0513-back.jpg 472,731,936,798,0 24,132,1112,863,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0604-back.jpg 244,287,470,327,0 24,3,566,354,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0191-back.jpg 326,397,667,449,0 1,1,812,496,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0830-back.jpg 444,613,827,666,0 72,134,988,721,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0708-back.jpg 426,571,878,643,0 8,1,1080,718,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0343-back.jpg 486,616,839,684,0 28,40,1143,752,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0521-front.jpg 82,295,149,326,1 157,486,410,518,2 8,248,466,548,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0545-front.jpg 105,216,172,244,1 166,382,378,413,2 30,179,430,432,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0142-front.jpg 334,287,399,315,1 399,472,636,499,2 253,257,687,534,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0535-back.jpg 196,467,353,493,0 44,270,426,518,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0439-back.jpg 176,459,345,484,0 8,259,412,506,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0304-front.jpg 191,58,254,83,1 259,245,493,272,2 101,23,539,299,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0901-back.jpg 393,368,644,405,0 117,12,745,448,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0607-back.jpg 548,671,972,735,0 102,113,1141,795,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0163-front.jpg 183,89,241,112,1 241,249,458,275,2 91,54,492,303,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0797-front.jpg 262,287,382,343,1 413,726,942,783,2 67,197,1080,854,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0156-front.jpg 172,479,339,551,1 323,956,967,1030,2 353,1984,867,2072,0 1,397,1078,1100,3 7,1327,1059,2131,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0090-back.jpg 354,660,711,719,0 23,250,864,768,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0311-front.jpg 504,192,713,275,1 714,767,1431,846,2 213,78,1563,922,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0024-front.jpg 133,43,223,77,1 219,330,584,367,2 3,1,639,409,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0358-back.jpg 149,396,296,423,0 13,228,353,445,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0378-back.jpg 299,381,530,410,0 54,72,620,448,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0719-back.jpg 267,312,526,347,0 10,9,631,393,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0424-front.jpg 734,191,992,283,1 986,889,1881,981,2 439,34,2061,1064,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0527-back.jpg 240,294,447,330,0 54,33,554,360,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0379-front.jpg 226,191,349,244,1 351,572,849,630,2 67,103,960,687,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0542-back.jpg 185,416,350,448,0 18,233,425,479,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0841-back.jpg 359,486,686,529,0 25,65,815,589,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0639-back.jpg 101,132,210,146,0 1,1,258,160,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0756-back.jpg 501,569,900,636,0 84,95,1069,699,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0496-front.jpg 120,92,208,129,1 212,332,513,365,2 11,49,569,409,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0547-front.jpg 75,41,136,67,1 140,213,354,235,2 1,3,403,264,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0534-back.jpg 193,438,375,465,0 7,200,458,494,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0419-front.jpg 96,313,166,342,1 159,500,401,540,2 16,286,449,559,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0290-back.jpg 680,743,1097,808,0 286,238,1259,862,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0074-back.jpg 242,333,452,365,0 45,68,549,388,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0816-back.jpg 359,465,743,512,0 2,1,896,559,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0551-front.jpg 320,219,427,268,1 426,533,818,585,2 173,172,908,640,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0604-front.jpg 117,60,198,93,1 195,290,492,326,2 12,4,562,360,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0133-front.jpg 131,211,180,231,1 174,351,363,375,2 56,190,398,399,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0017-back.jpg 431,504,737,548,0 129,126,860,591,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0917-front.jpg 183,74,237,100,1 246,251,462,275,2 101,36,507,304,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0842-front.jpg 200,153,353,205,1 350,568,863,629,2 1,71,970,697,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0875-front.jpg 130,131,197,160,1 203,346,476,375,2 25,79,539,409,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0513-front.jpg 244,223,415,295,1 409,714,1013,784,2 19,129,1129,865,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0115-front.jpg 70,308,141,339,1 144,523,413,555,2 1,266,471,584,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0734-front.jpg 405,203,593,279,1 613,830,1449,925,2 52,78,1652,1056,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0886-front.jpg 138,368,249,415,1 248,691,678,743,2 1,305,744,796,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0244-front.jpg 185,41,253,73,1 272,272,572,308,2 81,9,635,354,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0409-back.jpg 389,1115,748,1180,0 21,675,911,1259,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0405-back.jpg 381,867,753,915,0 21,395,917,965,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0291-back.jpg 201,459,349,485,0 73,286,410,502,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0373-front.jpg 672,370,846,446,1 849,884,1499,962,2 437,265,1634,1038,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0160-front.jpg 403,237,519,291,1 551,613,1046,673,2 237,146,1143,745,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0634-back.jpg 964,687,1592,785,0 333,46,1882,876,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0172-front.jpg 481,245,653,307,1 628,742,1294,816,2 199,155,1421,907,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0409-front.jpg 233,655,354,708,1 331,968,773,1042,2 75,603,845,1099,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0441-back.jpg 202,361,385,395,0 8,124,462,432,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0239-back.jpg 676,869,1330,957,0 52,40,1631,1028,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0380-back.jpg 275,376,527,413,0 33,87,617,453,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0205-front.jpg 156,330,208,353,1 207,473,389,497,2 88,297,417,521,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0593-back.jpg 479,973,823,1036,0 135,557,954,1080,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0178-front.jpg 241,100,431,176,1 440,670,1140,747,2 4,1,1279,816,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0002-front.jpg 80,35,137,55,1 140,214,368,240,2 1,1,414,267,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0316-front.jpg 122,48,209,84,1 210,305,529,342,2 2,1,585,382,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0846-front.jpg 251,241,372,293,1 389,654,923,709,2 52,157,1050,796,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0576-front.jpg 161,97,236,126,1 235,308,511,345,2 68,53,565,377,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0785-back.jpg 360,622,691,668,0 55,229,814,715,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0138-front.jpg 145,66,234,99,1 241,301,551,346,2 30,14,617,399,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0213-front.jpg 184,110,239,133,1 233,267,441,295,2 105,85,481,319,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0818-back.jpg 359,433,689,479,0 21,4,824,526,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0274-front.jpg 130,515,230,557,1 228,808,592,850,2 17,471,674,899,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0129-back.jpg 385,545,758,602,0 28,70,911,647,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0722-front.jpg 241,161,393,231,1 460,594,974,646,2 15,90,1010,728,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0792-back.jpg 299,672,598,719,0 2,346,732,781,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0168-front.jpg 155,155,216,183,1 235,357,491,384,2 61,107,545,412,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0456-back.jpg 257,365,517,399,0 9,37,630,427,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0346-front.jpg 121,108,213,143,1 220,373,562,411,2 5,48,635,456,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0265-back.jpg 316,375,519,409,0 103,131,597,444,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0823-front.jpg 102,217,151,241,1 155,367,394,406,2 16,169,453,445,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0751-front.jpg 161,211,270,266,1 259,544,682,606,2 6,152,751,651,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0458-back.jpg 281,305,470,334,0 87,65,559,361,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0461-front.jpg 124,121,214,149,1 222,358,535,396,2 3,61,583,442,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0564-front.jpg 158,147,243,183,1 280,398,589,434,2 33,99,611,458,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0878-front.jpg 196,108,314,159,1 335,477,789,527,2 26,28,903,581,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0376-front.jpg 185,133,356,200,1 363,645,1021,721,2 1,46,1149,802,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0111-front.jpg 132,103,225,142,1 227,374,563,409,2 12,57,628,448,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0265-front.jpg 202,165,254,189,1 256,347,492,375,2 91,132,535,404,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0632-back.jpg 795,838,1408,923,0 178,41,1668,995,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0863-back.jpg 464,582,779,637,0 144,200,926,700,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0053-back.jpg 475,596,967,661,0 1,1,1207,715,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0566-back.jpg 360,558,723,601,0 6,84,891,663,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0852-back.jpg 128,289,269,310,0 3,120,328,336,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0221-front.jpg 119,45,215,84,1 219,332,570,373,2 1,1,639,415,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0546-front.jpg 176,134,251,164,1 251,340,511,369,2 79,93,567,405,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0158-back.jpg 1215,2631,1671,2738,0 799,2103,1858,2799,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0603-back.jpg 298,682,602,734,0 25,335,746,791,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0136-front.jpg 166,138,234,168,1 248,370,542,401,2 56,90,598,427,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0619-front.jpg 120,83,220,122,1 216,365,566,397,2 1,30,637,446,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0227-front.jpg 171,118,212,134,1 212,229,354,248,2 227,432,338,446,0 122,101,379,263,3 121,295,383,464,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0875-back.jpg 253,358,462,386,0 41,89,565,419,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0922-back.jpg 221,746,488,785,0 1,424,608,819,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0836-back.jpg 714,715,1164,789,0 276,178,1362,854,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0822-back.jpg 525,564,1004,633,0 42,1,1191,684,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0641-back.jpg 280,607,471,637,0 110,381,563,665,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0795-back.jpg 810,767,1330,841,0 304,133,1555,916,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0039-back.jpg 436,569,727,611,0 155,209,847,650,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0407-back.jpg 416,534,796,595,0 48,77,951,656,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0110-front.jpg 106,361,156,388,1 166,546,407,576,2 30,323,477,586,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0163-back.jpg 270,245,437,273,0 103,36,509,292,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0153-back.jpg 371,962,563,1003,0 199,740,630,1032,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0831-front.jpg 220,467,328,512,1 332,793,752,854,2 62,399,862,908,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0414-back.jpg 427,1204,807,1271,0 57,735,979,1329,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0398-back.jpg 168,450,351,484,0 1,217,427,505,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0022-back.jpg 262,281,480,311,0 61,14,567,343,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0820-front.jpg 254,113,440,189,1 458,707,1214,792,2 4,4,1385,875,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0231-front.jpg 190,140,287,174,1 287,426,653,469,2 51,85,734,515,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0160-back.jpg 416,727,636,768,0 213,464,717,791,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0682-front.jpg 178,553,297,597,1 282,857,683,909,2
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0403-front.jpg 231,201,279,221,1 282,339,461,361,2 170,170,498,383,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0097-front.jpg 542,200,694,266,1 737,695,1382,780,2 321,85,1525,865,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0915-back.jpg 689,752,1105,802,0 282,225,1273,867,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0422-front.jpg 184,107,269,139,1 265,342,561,379,2 76,63,618,408,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0157-front.jpg 117,104,209,141,1 216,371,552,410,2 2,51,622,447,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0907-back.jpg 1182,933,1841,1024,0 510,84,2152,1144,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0076-front.jpg 148,237,189,254,1 184,351,334,369,2 85,219,367,388,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0453-front.jpg 592,130,844,224,1 842,832,1754,940,2 256,12,1916,1067,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0058-front.jpg 95,241,155,264,1 157,430,402,458,2 2,203,459,488,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0506-back.jpg 185,187,286,200,0 81,56,326,209,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0125-front.jpg 260,141,398,204,1 422,592,1042,667,2 43,61,1150,769,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0366-front.jpg 176,104,232,128,1 232,257,422,277,2 108,76,463,300,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0596-back.jpg 265,278,502,314,0 44,7,598,352,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0277-front.jpg 144,127,197,151,1 226,361,522,390,2 28,69,601,430,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0016-front.jpg 140,48,208,77,1 218,285,523,321,2 30,4,592,358,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0837-front.jpg 276,239,431,299,1 439,688,1018,753,2 77,142,1119,784,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0258-front.jpg 331,210,476,272,1 478,663,1035,723,2 124,127,1150,787,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0678-back.jpg 167,215,292,237,0 1,1,412,260,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0429-back.jpg 123,442,232,458,0 19,306,280,472,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0314-front.jpg 75,277,122,298,1 122,409,291,428,2 9,244,328,452,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0454-front.jpg 420,342,488,376,1 489,569,779,604,2 308,303,836,638,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0554-back.jpg 242,343,486,385,0 29,66,596,423,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0143-front.jpg 145,58,211,87,1 220,275,499,306,2 34,22,555,349,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0920-front.jpg 232,242,305,272,1 308,456,585,488,2 133,196,640,525,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0320-front.jpg 93,194,159,221,1 158,389,414,415,2 2,153,467,447,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0454-back.jpg 511,652,765,688,0 256,326,874,721,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0339-back.jpg 452,927,888,993,0 55,419,1048,1049,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0863-front.jpg 280,215,396,262,1 404,574,840,621,2 89,141,937,698,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0393-front.jpg 173,68,332,120,1 314,523,915,590,2 2,1,1014,636,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0681-back.jpg 315,714,656,762,0 8,306,779,809,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0859-front.jpg 272,186,427,252,1 461,730,1142,799,2 30,69,1280,882,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0840-back.jpg 192,460,344,484,0 49,276,408,505,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0192-front.jpg 189,409,321,427,0 54,240,381,451,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0885-front.jpg 230,591,295,618,1 290,777,532,819,2 120,555,580,859,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0715-back.jpg 388,473,676,508,0 90,96,811,560,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0430-back.jpg 257,383,522,421,0 1,42,635,454,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0051-back.jpg 298,337,499,368,0 104,84,579,397,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0621-front.jpg 118,39,194,75,1 199,288,515,322,2 1,1,584,364,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0508-back.jpg 407,809,737,869,0 115,423,874,912,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0341-back.jpg 253,569,479,605,0 20,282,568,637,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0686-front.jpg 127,377,227,423,1 231,634,569,693,2 13,323,634,726,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0782-front.jpg 139,238,219,270,1 219,499,578,543,2
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0094-front.jpg 208,130,269,158,1 285,339,560,377,2 106,80,624,408,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0174-back.jpg 296,664,562,714,0 65,353,669,737,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0256-front.jpg 119,65,198,98,1 203,294,490,327,2 26,25,550,359,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0340-front.jpg 256,338,520,367,0 2,1,634,406,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0464-back.jpg 801,615,1142,674,0 462,186,1284,726,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0280-back.jpg 270,367,500,404,0 62,79,597,423,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0315-back.jpg 258,287,463,322,0 63,41,547,358,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0635-back.jpg 516,674,904,735,0 103,185,1055,793,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0455-back.jpg 198,396,362,425,0 43,207,429,451,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0742-back.jpg 433,897,772,941,0 60,449,932,1007,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0648-front.jpg 111,49,193,79,1 190,274,476,309,2 5,5,543,348,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0663-back.jpg 250,343,519,381,0 1,1,640,415,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0040-back.jpg 326,411,649,457,0 4,4,783,498,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0445-back.jpg 261,379,508,409,0 14,58,620,444,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0038-back.jpg 258,340,527,379,0 1,1,639,410,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0451-back.jpg 309,792,589,829,0 25,440,702,863,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0750-front.jpg 162,49,275,84,1 268,374,700,435,2 1,1,789,493,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0701-front.jpg 688,147,833,232,1 859,661,1536,733,2 411,56,1651,828,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0669-front.jpg 156,272,261,318,1 272,568,658,616,2 15,186,744,671,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0582-back.jpg 511,653,950,726,0 63,105,1147,796,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0259-front.jpg 132,469,246,519,1 248,818,677,869,2 1,410,743,914,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0437-front.jpg 156,68,246,100,1 239,321,566,366,2 43,27,620,403,3
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0759-back.jpg 564,643,1023,730,0 3,1,1152,860,4
+/ext/ocr/VOCdevkit/VOC_idcard/JPEGImages/0622-front.jpg 216,299,337,348,1 328,643,753,682,2 49,220,845,750,3
